@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://feelscoder.github.io/"/>
+  <link href="http://feelcoder.tech/"/>
   <updated>2017-12-22T02:54:34.515Z</updated>
-  <id>http://feelscoder.github.io/</id>
+  <id>http://feelcoder.tech/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Larry</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://feelscoder.github.io/2017/12/22/hello-world/"/>
-    <id>http://feelscoder.github.io/2017/12/22/hello-world/</id>
+    <link href="http://feelcoder.tech/2017/12/22/hello-world/"/>
+    <id>http://feelcoder.tech/2017/12/22/hello-world/</id>
     <published>2017-12-22T02:54:34.515Z</published>
     <updated>2017-12-22T02:54:34.515Z</updated>
     
