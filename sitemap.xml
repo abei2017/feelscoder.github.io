@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://feelscoder.github.io/search/index.html</loc>
+    
+    <lastmod>2017-12-22T11:36:47.508Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://feelscoder.github.io/production/index.html</loc>
     
     <lastmod>2017-12-22T11:30:27.876Z</lastmod>
