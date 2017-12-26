@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://feelscoder.github.io/"/>
-  <updated>2017-12-22T02:54:34.515Z</updated>
+  <updated>2017-12-26T05:39:23.436Z</updated>
   <id>http://feelscoder.github.io/</id>
   
   <author>
@@ -17,39 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://feelscoder.github.io/2017/12/22/hello-world/"/>
-    <id>http://feelscoder.github.io/2017/12/22/hello-world/</id>
-    <published>2017-12-22T02:54:34.515Z</published>
-    <updated>2017-12-22T02:54:34.515Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>有温度的Coder</title>
-    <link href="http://feelscoder.github.io/2017/11/02/%E6%9C%89%E6%B8%A9%E5%BA%A6%E7%9A%84Coder/"/>
-    <id>http://feelscoder.github.io/2017/11/02/有温度的Coder/</id>
+    <title>高逼格程序员技术分享平台</title>
+    <link href="http://feelscoder.github.io/2017/11/02/%E9%AB%98%E9%80%BC%E6%A0%BC%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/"/>
+    <id>http://feelscoder.github.io/2017/11/02/高逼格程序员技术分享平台/</id>
     <published>2017-11-01T18:45:48.000Z</published>
-    <updated>2017-12-26T01:56:13.515Z</updated>
+    <updated>2017-12-26T05:39:23.436Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/coder.png" alt=""></p><blockquote><p><strong>生活其实没想象中那么简单，当你觉得容易时，一定是有人在背后默默为你承担艰难的部分</strong>。</p></blockquote><a id="more"></a><p>最近这段时间一直再忙于从0到1设计&amp;开发一款App的课程，本次线上课程的形式不同于传统看视频授课的方式，更侧重于独立开发者的经验分享，包括后端、产品、设计、运营等方面的内容。这是我第一次准备这样的课程，总会有考虑不周的地方，所以正在学习课程的小伙伴们如果对课程有自己的想法或建议都可以反馈给我，我愿努力改进为你们带来更优质有价值的内容。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/ppt.jpg" alt=""></p><p>虽是第一次准备这样的课程，但也竭尽全力的每天按时为小伙伴们提供课程内容，解答关于产品、技术、设计的一些问题。同时我也为自己的课程起了个名字，思前想后最终确定为《有温度的Coder》，起这样的一个名字有两个初衷：</p><ol><li><p><strong>做一个有思想、有温度、有情怀的Coder，不只懂技术，更懂用户和生活</strong>。</p></li><li><p><strong>让产品赋予温度，用情感去感动用户</strong>。</p></li></ol><p>如今互联网泛滥的年代，专注做点东西，至少对得起光阴岁月。其他的，就留给时间去说吧。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/person_product.png" alt=""></p><p>本次第一期课程已于10月26日开课，由于是首期课程，优惠力度比较大，更多的希望和大家一起努力成长，后续二期课程价格会适当提高，如有需要的，速速报名。</p><p>目前课程的形式是我输出的代码和ppt放到自己搭建的GitLab仓库上，报名成功后根据你们的基础提供针对性的内容，可以download源码、ppt以及其它更多的参考资料，同时UI设计原型图、视觉设计效果图、设计规范、尺寸相关的都会传到相关平台供你们查看，遇到问题可以随时联系我，我会文字或语音形式解答。</p><p><strong>不管你信不信，这个世界无论多么喧哗，一定有人还在专注地、默默地做着自己喜爱的东西。做一件细致入微的事情，安静生活、寂静思考</strong>。</p><p><strong>最后</strong></p><p>非常感谢一如既往支持我产品的用户，你们的支持，是我持续创作、优化产品的动力。</p><p><strong>报名方式：添加微信号lishichao706。</strong></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p><strong>生活其实没想象中那么简单，当你觉得容易时，一定是有人在背后默默为你承担艰难的部分</strong>。</p></blockquote><a id="more"></a><p>最近这段时间一直再忙于从0到1设计&amp;开发一款App的课程，本次线上课程的形式不同于传统看视频授课的方式，更侧重于独立开发者的经验分享，包括后端、产品、设计、运营等方面的内容。这是我第一次准备这样的课程，总会有考虑不周的地方，所以正在学习课程的小伙伴们如果对课程有自己的想法或建议都可以反馈给我，我愿努力改进为你们带来更优质有价值的内容。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/ppt.jpg" alt=""></p><p>虽是第一次准备这样的课程，但也竭尽全力的每天按时为小伙伴们提供课程内容，解答关于产品、技术、设计的一些问题。同时我也为自己的课程起了个名字，思前想后最终确定为《有温度的Coder》，起这样的一个名字有两个初衷：</p><ol><li><p><strong>做一个有思想、有温度、有情怀的Coder，不只懂技术，更懂用户和生活</strong>。</p></li><li><p><strong>让产品赋予温度，用情感去感动用户</strong>。</p></li></ol><p>如今互联网泛滥的年代，专注做点东西，至少对得起光阴岁月。其他的，就留给时间去说吧。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/person_product.png" alt=""></p><p>本次第一期课程已于10月26日开课，由于是首期课程，优惠力度比较大，更多的希望和大家一起努力成长，后续二期课程价格会适当提高，如有需要的，速速报名。</p><p>目前课程的形式是我输出的代码和ppt放到自己搭建的GitLab仓库上，报名成功后根据你们的基础提供针对性的内容，可以download源码、ppt以及其它更多的参考资料，同时UI设计原型图、视觉设计效果图、设计规范、尺寸相关的都会传到相关平台供你们查看，遇到问题可以随时联系我，我会文字或语音形式解答。</p><p><strong>不管你信不信，这个世界无论多么喧哗，一定有人还在专注地、默默地做着自己喜爱的东西。做一件细致入微的事情，安静生活、寂静思考</strong>。</p><p><strong>最后</strong></p><p>非常感谢一如既往支持我产品的用户，你们的支持，是我持续创作、优化产品的动力。</p><p><strong>报名方式：添加微信号lishichao706。</strong></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/coder.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
+      &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;生活其实没想象中那么简单，当你觉得容易时，一定是有人在背后默默为你承担艰难的部分&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
     
