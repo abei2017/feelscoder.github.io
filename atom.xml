@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://feelscoder.github.io/"/>
-  <updated>2017-12-26T05:39:23.436Z</updated>
+  <updated>2017-12-26T07:07:41.486Z</updated>
   <id>http://feelscoder.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://feelscoder.github.io/2017/11/02/%E9%AB%98%E9%80%BC%E6%A0%BC%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/"/>
     <id>http://feelscoder.github.io/2017/11/02/高逼格程序员技术分享平台/</id>
     <published>2017-11-01T18:45:48.000Z</published>
-    <updated>2017-12-26T05:39:23.436Z</updated>
+    <updated>2017-12-26T07:07:41.486Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p><strong>生活其实没想象中那么简单，当你觉得容易时，一定是有人在背后默默为你承担艰难的部分</strong>。</p></blockquote><a id="more"></a><p>最近这段时间一直再忙于从0到1设计&amp;开发一款App的课程，本次线上课程的形式不同于传统看视频授课的方式，更侧重于独立开发者的经验分享，包括后端、产品、设计、运营等方面的内容。这是我第一次准备这样的课程，总会有考虑不周的地方，所以正在学习课程的小伙伴们如果对课程有自己的想法或建议都可以反馈给我，我愿努力改进为你们带来更优质有价值的内容。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/ppt.jpg" alt=""></p><p>虽是第一次准备这样的课程，但也竭尽全力的每天按时为小伙伴们提供课程内容，解答关于产品、技术、设计的一些问题。同时我也为自己的课程起了个名字，思前想后最终确定为《有温度的Coder》，起这样的一个名字有两个初衷：</p><ol><li><p><strong>做一个有思想、有温度、有情怀的Coder，不只懂技术，更懂用户和生活</strong>。</p></li><li><p><strong>让产品赋予温度，用情感去感动用户</strong>。</p></li></ol><p>如今互联网泛滥的年代，专注做点东西，至少对得起光阴岁月。其他的，就留给时间去说吧。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App%E8%AF%BE%E7%A8%8B%E5%9B%BE/person_product.png" alt=""></p><p>本次第一期课程已于10月26日开课，由于是首期课程，优惠力度比较大，更多的希望和大家一起努力成长，后续二期课程价格会适当提高，如有需要的，速速报名。</p><p>目前课程的形式是我输出的代码和ppt放到自己搭建的GitLab仓库上，报名成功后根据你们的基础提供针对性的内容，可以download源码、ppt以及其它更多的参考资料，同时UI设计原型图、视觉设计效果图、设计规范、尺寸相关的都会传到相关平台供你们查看，遇到问题可以随时联系我，我会文字或语音形式解答。</p><p><strong>不管你信不信，这个世界无论多么喧哗，一定有人还在专注地、默默地做着自己喜爱的东西。做一件细致入微的事情，安静生活、寂静思考</strong>。</p><p><strong>最后</strong></p><p>非常感谢一如既往支持我产品的用户，你们的支持，是我持续创作、优化产品的动力。</p><p><strong>报名方式：添加微信号lishichao706。</strong></p>]]></content>
     
@@ -33,10 +33,35 @@
     
     </summary>
     
-      <category term="有故事的开发者" scheme="http://feelscoder.github.io/categories/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+      <category term="个人作品" scheme="http://feelscoder.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
     
-      <category term="有故事的开发者" scheme="http://feelscoder.github.io/tags/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+      <category term="个人作品" scheme="http://feelscoder.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>专注任务管理和待办计划提醒</title>
+    <link href="http://feelscoder.github.io/2017/09/14/%E4%B8%93%E6%B3%A8%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%92%8C%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92%E6%8F%90%E9%86%92/"/>
+    <id>http://feelscoder.github.io/2017/09/14/专注任务管理和待办计划提醒/</id>
+    <published>2017-09-14T10:10:48.000Z</published>
+    <updated>2017-12-26T07:10:16.811Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/0.jpg" alt=""></p><blockquote><p>程序员，像艺术家一样，把一种专注、追求极致的情怀融入代码，我敬畏自己的职业，所以再不断地提高和反思自己。</p></blockquote><a id="more"></a><h5 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h5><p>作为一名独立开发者，总想着有朝一日能做出一款颠覆性的产品去改变世界，没错就像乔布斯一样🙃，但梦想很美好，现实很骨感，即便如此，默默深耕App的我也从未停止过努力奋斗的脚步。<br>先附一张我近三个月开发的5款App展示图：<br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85.jpg" alt=""></p><h5 id="壹日程功能"><a href="#壹日程功能" class="headerlink" title="壹日程功能"></a>壹日程功能</h5><p>选其中的一个作品壹日程来分享一下，壹日程 - 专注任务管理和待办计划提醒，关于这款工具效率类的App，有哪些功能，我来一一介绍</p><ul><li>精美日历，明天的已知还隐含着一种期待。</li><li>日程管理，让您的日程不再遗漏。</li><li>日程提醒，避免因为忙碌而错过时间。</li><li>日程分类，工作、生活、购物、旅行、食物，一目了然。</li><li>日程统计，清晰视图展示您的清单计划表。</li><li>时间轴，时间排序不会错过任何重要事情。</li></ul><h5 id="开发过程"><a href="#开发过程" class="headerlink" title="开发过程"></a>开发过程</h5><p>选择做这款App的时候，我把AppStore上同类型的App全部下载体验了一遍，我的感受是繁琐的操作+UI方面的交互体验不是很喜欢，各有利弊吧，所以就想着自己开发一个。<br>由于我的爱好，喜欢研究App、逛站酷、花瓣、看知乎、开发自己的idea，曾花了一天时间看完了站酷100页App不同风格的设计，这个学习记录的过程，让我对壹日程的整体UI交互风格有了一个雏形。<br>功能、UI确定下来以后，接下来就步入正式开发的阶段了，不到10天，我利用业余时间完成了这款App，首页图如下：<br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/2.jpg" alt=""><br>完成、待完成、过期事项一目了然，让你更专注近一周的计划或任务，支持左右滑动、回到今天等功能，选中你计划的日期，点击加号就可以添加选中日期的任务，操作简单明了，同时计划任务也支持修改分类、删除、完成等操作。<br>当完成的任务、计划越来越多的时候，我们是否需要一个概览图来看看自己曾经完成的哪些事情，所以App有这样的一个功能供大家查看，概览视图非常直观，根据过期、待办、完成的任务进行排序<br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/4.jpg" alt=""><br>如果你觉得首页的日历不方便查看近一个月的任务、计划，那么App也提供了大视图日历显示以及分类显示的功能，方面你快速归类查找，是不是很方便？😶<br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/3.jpg" alt=""></p><h5 id="关于运营"><a href="#关于运营" class="headerlink" title="关于运营"></a>关于运营</h5><p>关于运营，这个是我的软肋，基本没做过什么推广，大部分的业余时间全都放在了码代码上，我一直相信用心打磨出一款好产品就一定会受到用户的青睐，但如今的互联网是酒香也怕巷子深的年代，其实运营是比开发出一款产品更为重要的事情。媒体评测、报道是一个比较好的方式，所以想通过一些媒体平台给壹日程带来一些流量。</p><h5 id="上架后与用户反馈"><a href="#上架后与用户反馈" class="headerlink" title="上架后与用户反馈"></a>上架后与用户反馈</h5><p>壹日程于6月29日上架到了 App Store ，至今2个多月的时间，版本迭代了8次。期间最佳排名为效率类付费榜前100名。而上架之后，收到用户的反馈与来信也变成一件非常有趣的事情，也正是通过这个渠道让我不断的去改进优化产品，结识到了不少用户。<br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/%E8%BF%AD%E4%BB%A3.jpg" alt=""></p><p>最后附上壹日程下载链接</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/%E5%A3%B9%E6%97%A5%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%9B%BE.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn-shanghai.aliyuncs.com/3%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E5%81%9A%E4%BA%865%E6%AC%BE%E4%BD%9C%E5%93%81/0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;程序员，像艺术家一样，把一种专注、追求极致的情怀融入代码，我敬畏自己的职业，所以再不断地提高和反思自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://feelscoder.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="个人作品" scheme="http://feelscoder.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
   </entry>
   
