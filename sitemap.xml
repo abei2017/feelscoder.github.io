@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://feelcoder.tech/about/index.html</loc>
+    
+    <lastmod>2017-12-27T04:49:35.848Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://feelcoder.tech/404.html</loc>
+    
+    <lastmod>2017-12-27T02:55:26.825Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://feelcoder.tech/2017/11/02/%E9%AB%98%E9%80%BC%E6%A0%BC%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/</loc>
     
     <lastmod>2017-12-26T17:44:22.924Z</lastmod>
@@ -26,13 +40,6 @@
     <loc>http://feelcoder.tech/2017/12/26/%E5%AE%89%E5%85%A8%E7%AE%80%E6%B4%81%E7%9A%84%E8%B4%A6%E5%8F%B7%E7%AE%A1%E5%AE%B6/</loc>
     
     <lastmod>2017-12-26T17:33:16.775Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://feelcoder.tech/about/index.html</loc>
-    
-    <lastmod>2017-12-26T12:28:53.537Z</lastmod>
     
   </url>
   
