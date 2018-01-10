@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://maliquankai.com/search/index.html</loc>
+    
+    <lastmod>2018-01-10T11:36:17.748Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://maliquankai.com/production/index.html</loc>
     
     <lastmod>2018-01-10T11:26:51.864Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>http://maliquankai.com/404.html</loc>
     
     <lastmod>2017-12-27T02:55:26.825Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/search/index.html</loc>
-    
-    <lastmod>2017-12-22T11:36:47.508Z</lastmod>
     
   </url>
   
