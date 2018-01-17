@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-01-15T06:24:28.865Z</updated>
+  <updated>2018-01-17T18:35:27.108Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>那些程序员教学课程，不会教给你的N个技能</title>
+    <link href="http://maliquankai.com/2018/01/18/%E9%82%A3%E4%BA%9B%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%99%E5%AD%A6%E8%AF%BE%E7%A8%8B%EF%BC%8C%E4%B8%8D%E4%BC%9A%E6%95%99%E7%BB%99%E4%BD%A0%E7%9A%84N%E4%B8%AA%E6%8A%80%E8%83%BD/"/>
+    <id>http://maliquankai.com/2018/01/18/那些程序员教学课程，不会教给你的N个技能/</id>
+    <published>2018-01-17T18:30:48.000Z</published>
+    <updated>2018-01-17T18:35:27.108Z</updated>
+    
+    <content type="html"><![CDATA[<p>坐在 N 块电脑屏幕前，聚精会神写<del>Bug</del> 代码的样子，就像<strong>FBI</strong> 特工一样深不可测！用代码实现脑海中想法的能力，更是让普通人羡慕至极。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/FBI.png" alt=""></p><p>最重要的是，这个年代，收入状况比程序员还要理想的职业已经不多了~ 如果看过 code.org 拍摄的<a href="https://youtu.be/nKIu9yen5nc" target="_blank" rel="noopener">「学校中不会教的知识」 </a> <a href="https://youtu.be/nKIu9yen5nc" target="_blank" rel="noopener">https://youtu.be/nKIu9yen5nc</a></p><p>绝对会产生「立即行动起来学习编程」的冲动！仅 2017 年 App Store 就创收 <strong>265 亿美元</strong>，如果全世界人民平分，每人能拿 4.4 亿美元啊！从「iOS 开发」开启程序员生涯自然成为了很多人的选择。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/ds.png" alt=""></p><h4 id="怎样才是打开程序员入门的正确姿势？"><a href="#怎样才是打开程序员入门的正确姿势？" class="headerlink" title="怎样才是打开程序员入门的正确姿势？"></a>怎样才是打开程序员入门的正确姿势？</h4><p>大牛说：<strong>「Apple 官方文档是最好的启蒙教材」</strong></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/apple.png" alt=""></p><p>全面客观细节丰富权威没毛病！然而，考虑到实际情况，几百页的英文说明书，可能稍微有点。….</p><p>一盆冷水泼在头上，从看文档到放弃，还是刷剧比较暖心~</p><p>大牛说：<strong>「斯坦福白胡子老爷子讲的很不错」</strong></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/dl.png" alt=""></p><p>免费下载免费听，更新迅速口碑好。可除了 Right\Let’s\Xcode，实在听不懂怎么破？一盆冷水泼在头上，从看视频到放弃，还是刷剧比较暖心~ </p><p>大牛说：<strong>「只学0bject-C/Swift 是不够的，还要学后端、设计、BlahBlah」</strong></p><p>啥也不说了，先泼冷水为敬！寒冷的冬天，还是刷剧比较暖心~</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/xj.png" alt=""></p><h4 id="写出了第一款-App？这才只是开始！"><a href="#写出了第一款-App？这才只是开始！" class="headerlink" title="写出了第一款 App？这才只是开始！"></a>写出了第一款 App？这才只是开始！</h4><p>不过「有志者事竟成」，持之以恒的努力，终将有回报。经过数月的学习，终于完成了自己的第一款 App，那种激动的心情和对未来的憧憬，大概永远也忘不掉！</p><h4 id="但这只是踏出了第一步！"><a href="#但这只是踏出了第一步！" class="headerlink" title="但这只是踏出了第一步！"></a>但这只是踏出了第一步！</h4><ol><li>启动页面，点赞按钮，icon图标资源如何解决？</li><li>想要UI界面、交互设计看起来就很高大上怎么破？</li><li>如何判断大胆的想法是否靠谱可行？</li><li>上架了App Store没人下载，无人问津很绝望？</li></ol><p>也许可以这样回答：<strong>「代码写的好就 OK！其余的，交给产品、UI 专人来做吧！」</strong></p><p>然而，我们的目标是：<strong>与扎克伯格谈笑风生！万一可以改变世界呢？</strong></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/everybody.png" alt=""></p><h4 id="像独立开发者一样成为「有温度的-Coder」"><a href="#像独立开发者一样成为「有温度的-Coder」" class="headerlink" title="像独立开发者一样成为「有温度的 Coder」"></a>像独立开发者一样成为「有温度的 Coder」</h4><p>基于这样的想法，<a href="http://maliquankai.com">码力全开工作室</a>操刀设计了<strong>「有温度的 Coder」</strong>App开发课程</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017年终总结/coder.png" alt=""></p><ol><li><p><strong>做一个有思想、有温度、有情怀的 Coder，不只懂技术，更懂用户和生活。</strong></p></li><li><p><strong>让产品赋予温度，用情感去感动用户。</strong></p></li></ol><p>即便是0基础的新手，通过学习基础语法、界面UI控件、多媒体等相关技术，也能开发出好用的APP–比如和服务端不交互完全本地存储云同步的便签类App</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/ybq.png" alt=""></p><p>项目实战由易到难，不学点后端技能怎么能行，然后就有了和服务端交互的情侣类App</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/qlj.png" alt=""></p><p>就算是已经有了 iOS 开发基础，也难免写 APP 到怀疑人生：如何设计美观的UI？如何亲手制作图标？如何打动阴晴不定的苹果审核员爸爸？在<strong><a href="(http://maliquankai.com/2017/11/02/有温度的Coder/">「有温度的 Coder」</a>)</strong>都能找到你想要的答案。</p><p>所有课程，都将根据大家的实际基础，定制专属内容。每节课程的源码都将配合PPT的方式供你们查看，方便根据自身进度调整速度，没有视频课程快进、倒退、暂停带来的麻烦。</p><p>课程中出现的设计原图、效果图、设计规格规范一并提供，可反复查阅；重点知识点，还将放在「奇点日报」平台上分享。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/bqdesign.jpg" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/qldesign.png" alt=""></p><h4 id="遇到问题怎么破？"><a href="#遇到问题怎么破？" class="headerlink" title="遇到问题怎么破？"></a>遇到问题怎么破？</h4><p>网站留言？邮件反馈？自己Google？「有温度的 Coder」采取了粗暴简单的方法：Google都搞不定的问题，直接<strong>微信提问！早上9点 - 凌晨1点</strong>都能做到有问必答！以文字或语音的形式解疑答惑。</p><p>还有<strong>开发者专属微信群</strong>，在与全国的开发者谈笑风生中切磋提高。</p><p>经过 3-4 个月，浓度高干货足内容实的<strong>「有温度的 Coder」</strong>课程学习后，每位学员都将获得：</p><ol><li>让人眼前一亮的 APP 作品集；</li><li>告别「有想法，就差程序员」的机会；</li><li>完完整整开发APP的能力；</li><li>以及成为独立开发者的底气！</li></ol><h4 id="为什么选择「有温度的-Coder」"><a href="#为什么选择「有温度的-Coder」" class="headerlink" title="为什么选择「有温度的 Coder」"></a>为什么选择「有温度的 Coder」</h4><p><a href="http://maliquankai.com/2017/11/02/有温度的Coder/">「有温度的 Coder」</a>由<a href="http://maliquankai.com">码力全开工作室</a>创始人 Larry 操刀设计。在选择成为独立开发者之前，Larry 曾拥有银行系统、音乐、短视频、教育、资讯等相关APP的开发经验，担任职技术Leader，以及智能硬件产品经理。</p><ul><li>开发的奇点日报iOS版首发荣获 iFanr 推荐入选周榜；</li><li>字里行间专题推荐奇点日报，千聊活动合作推荐奇点日报；</li><li>媒体专题报道奇点日报、同类型技术资讯类APP获得极高评价；</li><li>壹日程APP最佳成绩App Store工具类付费榜23名；</li><li>「Price Tag」和「利器」访谈推荐独立开发者作品。</li></ul><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App课程图/iPhone%20X优化.jpg" alt=""></p><p>####「有温度的 Coder」课程福利</p><p><strong>永久在线的技术支持</strong></p><p>在未来的 iOS 开发过程中，除了完成进度的喜悦与上线 APP 的成就感。难免遇到技术障碍。「有温度的 Coder」保证提供永久技术支持和疑问解答。</p><p><strong>码力全开工作室作品内测</strong></p><p>作为高产独立开发者的工作室，未来<a href="http://maliquankai.com">码力全开工作室</a>将把新作品的内测机会，留给<a href="http://maliquankai.com/2017/11/02/有温度的Coder/">有温度的Coder</a>们，和我们共同打造有温度的App!</p><p>根据需求提供免费证书供真机调试</p><p><strong>限时优惠</strong></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/bm.png" alt=""></p><p><strong>工作室愿景</strong></p><p><a href="http://maliquankai.com">码力全开工作室</a>更倾向于是一个独立开发者交流、讨论、学习的聚集地。在这里，打造自己产品的同时，也在一路摸索帮助更多的人成为独立开发者。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;坐在 N 块电脑屏幕前，聚精会神写&lt;del&gt;Bug&lt;/del&gt; 代码的样子，就像&lt;strong&gt;FBI&lt;/strong&gt; 特工一样深不可测！用代码实现脑海中想法的能力，更是让普通人羡慕至极。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn
+      
+    
+    </summary>
+    
+      <category term="有故事的开发者" scheme="http://maliquankai.com/categories/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    
+    
+      <category term="有故事的开发者" scheme="http://maliquankai.com/tags/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    
+  </entry>
   
   <entry>
     <title>独立开发者如何学习设计？</title>
