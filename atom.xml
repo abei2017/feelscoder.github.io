@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-07-25T10:57:47.424Z</updated>
+  <updated>2018-08-08T16:02:45.072Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -17,20 +17,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>聊一聊课程状态</title>
-    <link href="http://maliquankai.com/2018/07/25/2018-07-25-course-status/"/>
-    <id>http://maliquankai.com/2018/07/25/2018-07-25-course-status/</id>
-    <published>2018-07-25T10:54:18.000Z</published>
-    <updated>2018-07-25T10:57:47.424Z</updated>
+    <title>1年的独立开发者生活</title>
+    <link href="http://maliquankai.com/2018/08/08/2018-08-08-oneyear-developer/"/>
+    <id>http://maliquankai.com/2018/08/08/2018-08-08-oneyear-developer/</id>
+    <published>2018-08-08T15:56:18.000Z</published>
+    <updated>2018-08-08T16:02:45.072Z</updated>
     
-    <content type="html"><![CDATA[<p>关注码力全开的小伙伴们都知道近期在出App的设计教程，之前整理的目录大纲只有十节内容，以为1到2周时间应该可以整理完成，结果每一个章节内容越做越多😂，又想不能为了追求速度而忽略设计内容本身的质量，所以时间上会有所延期，但会保证设计内容的质量和精细度，敬请期待。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/design_feng.png" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/0%E7%9B%AE%E5%BD%95.png" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/design_progress.png" alt=""></p><p>就在前天码力全开工作室《有温度的Coder》课程已正式上线，搭建的仓库上同时更新了iOS、Android、Java三个方向的课程，学习课程的学员每个人分配的账号权限都不太一样，所以每个人所属组看到的内容就是针对你提供的PPT和实例Demo。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/app_course%20.jpg" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/course_groups.png" alt=""></p><p>从我们决定要学习编程的那一刻，大部分人都满怀期待，期待着有一天能够通过自己的技术做出一款属于自己的产品，这种创造的成就感特别高，然而当我们真正的坐在电脑旁开始看基础编程知识的时候却又很难坚持下去。</p><p>学习编程不可能一蹴而就，而是一个不断学习累积的过程，你付出的成本越高，输出的能力就越大，每个课程刚开始都是从基础内容学起，前期不要让枯燥乏味成为你的绊脚石，随着课程内容的推进，掌握的技术越来越多，当你具备开发一款App能力的时候，你就会觉得之前的付出都值得，也许你还会有豁然开朗的感觉，编程原来这么有意思呐~</p><p><strong>既然选择了，就要坚持下去，并默默地为之努力，不为别人，只为做一个连自己都羡慕的人</strong>，如果你学习的过程中遇到任何问题请随时联系我，我会及时为你们解答疑惑。</p><p>如果你有任何好的建议或想法，欢迎与我联系。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><strong>Larry | 独立开发者、码力全开工作室创始人</strong></p><p>今天是个特别的日子，2018年8月8是个分手的好日子，别再拖了。而今天也是我成为全职独立开发者的一周年，回望这300多天，依旧是不想上班。这个期间有找我担任技术顾问的也有找我想一起创业做公司的，我趾高气昂的都婉拒了，打算先坚持一段时间看看自己能撑多久。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiaw1LAVjPPaLA3Pkib5gPDuAribwUhiaMlnvOrM4ibscV9MpkjeBGqBF9yGjQ/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><p>这一年虽然不上班但进账也不比上班时少，自由职业一直是我向往的职业，但等你真正的成为自由职业者，你就会发现其实它是最难做的职业，自律和坚持对于每个自由职业者来说太重要了，如果做不到这两点，那就老老实实上班吧。</p><p>从去年8月份到现在，我不断设计&amp;开发新品的同时，也在不断尝试独立开发者课程，因为我们所处的互联网行业太变态了，你若想要高回报，就得每天拼了命的付出精力，逼自己不断的学习。</p><p>去年12月28号利器访谈介绍了我独立开发的现状和我使用过的一些利器，今年我更新到工作室上同时同步更新一下。</p><h4 id="介绍一下我自己和所做的工作"><a href="#介绍一下我自己和所做的工作" class="headerlink" title="介绍一下我自己和所做的工作"></a>介绍一下我自己和所做的工作</h4><p>我是Larry，工作5年后，选择成为一名独立开发者，目前已有一年时间。拥有9款个人作品：『奇点日报』『码力全开』『MiniHour』『破壳日』『壹日程』『口袋密码』『Icon Test』『心动屋』『拾光记』</p><p><img src="https://mmbiz.qpic.cn/mmbiz_png/hJ2JhoZibOLqBUhFQwLrr14msMBkKjdPF8DwFo1s4hF4nrtNa01icLRpBHwM8yboRfL1Stbj4aHenvxMWXx5yjjw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="职业经历"><a href="#职业经历" class="headerlink" title="职业经历"></a>职业经历</h4><p>我毕业后在银行做开发，一年后转到了移动互联网行业，那个时候开始自学 iOS、Android 端的技术，也接触到了苹果的一些产品，开始对移动端的开发产生兴趣。</p><p>负责开发过<strong>音乐类、短视频类、工具类、教育类、资讯类</strong>相关的 App，曾任职技术 Leader 负责过教育类、资讯类的项目，后来任职 PM 负责过汽⻋智能后视镜的需求挖掘、产品设计和规划等。</p><p>一路不断学习摸索走到现在成为一名独立开发者。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawbOxzE8y0DOe5LUBN1WKUsG1oSSgNe88hQ7mmTycy4REnzdxaQIXcXQ/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="决定全职成为一个独立开发者，我都做了什么权衡？"><a href="#决定全职成为一个独立开发者，我都做了什么权衡？" class="headerlink" title="决定全职成为一个独立开发者，我都做了什么权衡？"></a>决定全职成为一个独立开发者，我都做了什么权衡？</h4><ol><li><p>现在的工作还能给自己带来多大的提升空间。</p></li><li><p>未来的职业规划是给老板打工还是给自己打工。</p></li><li><p>是否能为自己的作品长期坚持下去。</p></li><li><p>通过自己的作品每个月能否养活自己。</p></li></ol><p>权衡了以上 4 个问题，而且平时又喜欢时间由自己支配，自由码代码的感觉，按照自己的产品逻辑和设计去完成产品的打磨，所以今年 7 月份入坑独立开发。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawWiavQLs7Ithe8J8kl1LsdcIJ0IJfEkZ1tTxQJianh9ec6tibNkK8uToicw/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="我认为目前要提高收入的最大挑战是什么？"><a href="#我认为目前要提高收入的最大挑战是什么？" class="headerlink" title="我认为目前要提高收入的最大挑战是什么？"></a>我认为目前要提高收入的最大挑战是什么？</h4><ol><li><p>运营和推广自己作品的能力。</p></li><li><p>和用户保持有效的互动，能够让产品有持续的新鲜感。</p></li><li><p>如何培养用户为优质作品付费的习惯。</p></li><li><p>拓展自己的技术栈以及运用技术栈赚钱的能力。</p></li></ol><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawM87Xkvk3OeVImOn2uCJElkOt2eVpVawGVThe2srUo03YDMjFxw8icOw/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="作为独立开发者，相比于之前的工作，最大的好处和最大的不便各是什么？"><a href="#作为独立开发者，相比于之前的工作，最大的好处和最大的不便各是什么？" class="headerlink" title="作为独立开发者，相比于之前的工作，最大的好处和最大的不便各是什么？"></a>作为独立开发者，相比于之前的工作，最大的好处和最大的不便各是什么？</h4><p>最大的好处：做自己认可的产品，愿意花更多的时间去研究探索，同时时间相对自由，可以按照自己的产品想法和设计去完成产品的打磨，自己来把控产品的迭代节奏。</p><p>最大的不便：工作的时候每个人各司其职，负责好自己的那一块工作就好，而现在很多工作都需要自己来完成，从一个产品的idea到竞品分析、市场容量、原型、设计的输出，再到开发和运营相关的所有工作等等。</p><p>也正是因为每个过程都需要自己独立完成，所以才能够更快速的补充拓展自己其它方面的能力，让自己快速成长。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawpZYO0lPxFwqbsl4LqERmWDMZDwfCQaibiaSuU0a1rkBUDjKIJic6zIXKg/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="设计方面，通过什么方法和工具来提高自己的能力呢？"><a href="#设计方面，通过什么方法和工具来提高自己的能力呢？" class="headerlink" title="设计方面，通过什么方法和工具来提高自己的能力呢？"></a>设计方面，通过什么方法和工具来提高自己的能力呢？</h4><p>也没有什么独特的方法，我个人比较喜欢设计，高中的时候学过美术，大学又选修了设计，目前也还在进阶的一个过程，平时会看一些日本的工业设计、设计相关的书籍，逛一些设计师相关的网站，例如：Dribbble、Behance、站酷、花瓣。</p><p>同时每天晚上会抽出一点时间使用iPad Pro或者手绘板临摹、绘画一些东西。工具这块使用最多的是 PS、AI、Sketch、OmniGraffle、墨刀。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawpZYO0lPxFwqbsl4LqERmWDMZDwfCQaibiaSuU0a1rkBUDjKIJic6zIXKg/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="我都在使用哪些硬件？"><a href="#我都在使用哪些硬件？" class="headerlink" title="我都在使用哪些硬件？"></a>我都在使用哪些硬件？</h4><p>自认为是一个理性的果粉，但基本每年的苹果产品还是忍不住剁手。</p><p>MacBook Pro ：之前使用的 2013 年款的 MacBook Pro，整天背着包感觉有点厚重，携带不是很方便，过了一年苹果就出了轻薄的本子，当时就入手了 2014 年款的 13 寸 MacBook Pro，现在它仍是我的主力笔记本，前几天入手了18款MacBook Pro预计周五到货。</p><p>iPhone X：现在的主力手机，细节的设计感、视觉效果、流畅度比我想象的要好，它基本上可以满足手机端的所有需求。</p><p>iPad Pro：二代 12.9 寸，屏幕的出色和处理器的速度让我无法抗拒，当时配备了键盘和 Apple Pencil，如果不码代码，它可以完成大部分的工作需求，平时我主要使用它办公娱乐、临摹、记录一些东西。</p><p>Apple Watch：2015 年的经典款，当初买它是想在上面写 app，但其实它的外观并不是很喜欢，偏厚且手表里的 app 反应没想象的灵敏顺畅，目前主要是用来装B，偶尔看下时间、记录运动。</p><p>Airpods：我认为它是目前市面上最好的蓝牙耳机，佩戴舒适，音质中频人声比较清晰，配对简直是闪配，人性化的细节体验，出门一般都会带上它。</p><p>HomePod：低音浑厚有力、声场宽广，满足了我听觉上的音乐享受，或许是最易用、最用户友好型的智能音箱，用户不需要太过复杂的设置，就能够上手即用</p><p>Kindle Paperwhite 升级版：碎片时间主要使用它来看书，看惯了电脑屏幕，拿起 Kindle，它的显示屏能让眼睛放松很多。</p><p>Canon EOS 800D：虽是摄影小白，但喜欢摄影，到手一周后就沦为在角落里吃灰。</p><p>Wacom CTL690 数位板：平时除了使用 iPad Pro 做一些简单临摹，稍微专业一点的会使用它来完成，当然我的水平还是初级水平。</p><p>23 寸 Windows 一体机：有时候会用它做一些设计，配合连接数位板画画。</p><p>其他：有一部 iPad air 2 和 iPad mini 3，偶尔会用来当测试机调试、娱乐。14 年入手了一台微软的 Surface Pro 3，使用体验了一段时间后，果断放弃了。没有入手 Apple Watch 之前，戴的是华为荣耀手环，觉得还是不错，但表带已经断裂。</p><p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/hJ2JhoZibOLqSRQicoKJl13Fib5DR0lNRiawdAzBAXUoXnFFBH1eOXC8FMe2zOVN1qYoCRNia1iabnHj8MmjJia01YFtA/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt=""></p><h4 id="软件呢？"><a href="#软件呢？" class="headerlink" title="软件呢？"></a>软件呢？</h4><p>iOS 平台：</p><p>Shadowrocket：主要作为翻墙工具使用。</p><p>Things：细节和体验上的用心让人感动，主要做一些日程事项、学习计划的管理。</p><p>Notability：配合 iPad Pro+Apple Pencil 完成一些手写笔记，手写字体很精确，几乎没有延时，很接近在纸上写字的感觉。</p><p>Procreate：大师级画板工具，配合 iPad Pro+Apple Pencil 可以做一些素描、绘画、写生的需求。</p><p>Evernote：主要使用它来做知识管理、优质文章收集、撰写文章。</p><p>Price Tag：通过它发现一些优秀的应用，观望一下独立开发者的动态。</p><p>Pin：简直是剪切板记录的神器，有多好用自己去探索吧。</p><p>Mac 平台：</p><p>Xcode：开发必备工具。</p><p>Alfred：是一个让你可以丢掉鼠标的神器，一个快捷键就可以快速搜索打开应用。</p><p>Sketch：非常优秀的UI设计工具，会使用它做一些想法的设计。</p><p>Postman：主要用它来做一些接口调试，模拟接口数据。</p><p>SourceTree：管理代码的 Git 工具，基本够用。</p><p>CotEditor：大部分简单的文本编辑都是用它来完成，极简轻便。</p><p>OmniGraffle：最快速舒服的出线框原型、绘制流程图的工具。</p><p>Omnifocus：一般简单的计划会使用 Things，复杂一点的时间/项目管理会使用它来完成。</p><p>Sublime Text：它主要用于代码编写的工具，比如：PHP、前端的语言编写。</p><p>MacDown：涉及到 Markdown 的内容都是由它来完成。</p><p>ForkLift：使用它作为 FTP 工具，实现本地远程目录同步。</p><p>MAMP：网站集成环境软件，十分便于本地调试开发。</p><p>Xmind：思维导图一般使用它完成。</p><p>Eagle：轻松管理我的各种设计图片，提升工作效率。</p><p>Notion：管理、协作利器，方便给我的产品做笔记、任务管理。</p><p>如果你有任何好的建议或想法，欢迎与我联系。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;关注码力全开的小伙伴们都知道近期在出App的设计教程，之前整理的目录大纲只有十节内容，以为1到2周时间应该可以整理完成，结果每一个章节内容越做越多😂，又想不能为了追求速度而忽略设计内容本身的质量，所以时间上会有所延期，但会保证设计内容的质量和精细度，敬请期待。&lt;/p&gt;
-&lt;
+        &lt;p&gt;&lt;strong&gt;Larry | 独立开发者、码力全开工作室创始人&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天是个特别的日子，2018年8月8是个分手的好日子，别再拖了。而今天也是我成为全职独立开发者的一周年，回望这300多天，依旧是不想上班。这个期间有找我担任技术顾问的也有找我想
+      
+    
+    </summary>
+    
+      <category term="有故事的开发者" scheme="http://maliquankai.com/categories/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    
+    
+      <category term="有故事的开发者" scheme="http://maliquankai.com/tags/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聊一聊课程状态</title>
+    <link href="http://maliquankai.com/2018/07/25/2018-07-25-course-status/"/>
+    <id>http://maliquankai.com/2018/07/25/2018-07-25-course-status/</id>
+    <published>2018-07-25T10:54:18.000Z</published>
+    <updated>2018-07-25T11:07:38.446Z</updated>
+    
+    <content type="html"><![CDATA[<p>关注码力全开的小伙伴都知道近期在出App的设计教程，之前整理的目录大纲只有十节内容，以为1到2周时间应该可以整理完成，结果每一个章节内容越做越多😂，又想不能为了追求速度而忽略设计内容本身的质量，所以时间上会有所延期，但会保证设计内容的质量和精细度，敬请期待。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/design_feng.png" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/0%E7%9B%AE%E5%BD%95.png" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/design_progress.png" alt=""></p><p>就在前天码力全开工作室《有温度的Coder》课程已正式上线，搭建的仓库上同时更新了iOS、Android、Java三个方向的课程，学习课程的学员每个人分配的账号权限都不太一样，所以每个人所属组看到的内容就是针对你提供的PPT和实例Demo。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/app_course%20.jpg" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E5%B9%BF/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/course_groups.png" alt=""></p><p>从我们决定要学习编程的那一刻，大部分人都满怀期待，期待着有一天能够通过自己的技术做出一款属于自己的产品，这种创造的成就感特别高，然而当我们真正的坐在电脑旁开始看基础编程知识的时候却又很难坚持下去。</p><p>学习编程不可能一蹴而就，而是一个不断学习累积的过程，你付出的成本越高，输出的能力就越大，每个课程刚开始都是从基础内容学起，前期不要让枯燥乏味成为你的绊脚石，随着课程内容的推进，掌握的技术越来越多，当你具备开发一款App能力的时候，你就会觉得之前的付出都值得，也许你还会有豁然开朗的感觉，编程原来这么有意思呐~</p><p><strong>既然选择了，就要坚持下去，并默默地为之努力，不为别人，只为做一个连自己都羡慕的人</strong>，如果你学习的过程中遇到任何问题请随时联系我，我会及时为你们解答疑惑。</p><p>如果你有任何好的建议或想法，欢迎与我联系。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;关注码力全开的小伙伴都知道近期在出App的设计教程，之前整理的目录大纲只有十节内容，以为1到2周时间应该可以整理完成，结果每一个章节内容越做越多😂，又想不能为了追求速度而忽略设计内容本身的质量，所以时间上会有所延期，但会保证设计内容的质量和精细度，敬请期待。&lt;/p&gt;
+&lt;p
       
     
     </summary>
@@ -506,31 +532,6 @@
       
         &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;破壳日下载地址&lt;/a&gt;&lt;/p&gt;
 &lt;blockqu
-      
-    
-    </summary>
-    
-      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-    
-      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>发现令您心动的好物</title>
-    <link href="http://maliquankai.com/2017/12/26/%E5%8F%91%E7%8E%B0%E4%BB%A4%E6%82%A8%E5%BF%83%E5%8A%A8%E7%9A%84%E5%A5%BD%E7%89%A9/"/>
-    <id>http://maliquankai.com/2017/12/26/发现令您心动的好物/</id>
-    <published>2017-12-26T15:59:48.000Z</published>
-    <updated>2018-01-09T15:03:49.915Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/us/app/心动屋-发现令你心动的好物/id1234003952?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">心动屋下载地址</a></p><blockquote><p>如果你经常网购的话，那我要告诉你福利来了，这是一款轻量级的文艺范购物应用，相信每个人都想追求有品质的生活，而品质生活少不了一些新鲜良品的点缀，「心动屋」就是一个推荐心动生活良品的平台。你可以在这里精心挑选全世界的美好，一起过有范的生活。</p></blockquote><h4 id="发现全世界的好物"><a href="#发现全世界的好物" class="headerlink" title="发现全世界的好物"></a>发现全世界的好物</h4><p>心动屋每天为你推荐新鲜好玩且实用的生活良品，为恋人、朋友、家人定制了不同的礼物清单，愿你在这里能选出令TA心动的礼物。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%BF%83%E5%8A%A8/1.png" alt=""></p><h4 id="enjoy品质生活"><a href="#enjoy品质生活" class="headerlink" title="enjoy品质生活"></a>enjoy品质生活</h4><p>每天为你推荐的生活良品会以一个个专题的形式呈现在这里，同时也有小编为你精心挑选的优品，丰富多样的专题定能帮你找到自己心仪的好物。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%BF%83%E5%8A%A8/2.png" alt=""></p><h4 id="我想要的美好"><a href="#我想要的美好" class="headerlink" title="我想要的美好"></a>我想要的美好</h4><p>这款风格清新的 App 提供了各种用品的分类，你可以很方便地找到自己想要探索的类别。找到自己心动的玩物后，也可以一目了然地看到它的价格，点击查看详情后便会自动跳转到购买界面，十分的便利，欢迎你的光临~</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%BF%83%E5%8A%A8/3.png" alt=""></p><p>生活这么有意思，来了心动屋才知道，快叫上你的达令们一起开启心动购物之旅吧！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/心动屋-发现令你心动的好物/id1234003952?l=zh&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;心动屋下载地址&lt;/a&gt;&lt;/p
       
     
     </summary>
