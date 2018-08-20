@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-08-14T11:16:39.000Z</updated>
+  <updated>2018-08-20T16:46:49.697Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>程序员该如何提升自己？</title>
+    <link href="http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/"/>
+    <id>http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/</id>
+    <published>2018-08-17T10:30:18.000Z</published>
+    <updated>2018-08-20T16:46:49.697Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。</p><p>北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。</p><p>尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大、互联网技术更新迭代速度快等原因让很多程序员疲于应付，苦不堪言。</p><p>长期以来，行业也存在一个误解：程序员的工作终点超不过35岁。如果想拥有更好的发展，学无止境不仅仅是我们一句勉励的口头禅。</p><p>程序员如何提升自己的能力？一些既懂理论又注重实践的“过来人”在电脑前摸爬打滚之后，给出了几条可行性建议：</p><h4 id="打好专业基础，累积十万工程量"><a href="#打好专业基础，累积十万工程量" class="headerlink" title="打好专业基础，累积十万工程量"></a>打好专业基础，累积十万工程量</h4><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/book.jpg" alt=""></p><p>买几本经典的编程书，把书上所有例子全部重新写一遍，逐个比较和书上范例的差距。</p><p>基础扎实后，多看看Linux 等系统级的源代码，看看高手是如何写的，就有感觉了。</p><p>一定要牢记软件工程的铁律：可能出错的地方一定会出错。每个变量都做初始化，引用每个参数都会做有效性检查，在可能出错的每个地方都会做边界条件检查。</p><p>计算机是一门实践性的科学，卡内基梅隆大学计算机系在全世界非常出名，系里要求每个博士生必须写十万行代码才能毕业，对于我们现在的程序员，也应该是一个专业积累的目标。</p><h4 id="时刻保持好奇心"><a href="#时刻保持好奇心" class="headerlink" title="时刻保持好奇心"></a>时刻保持好奇心</h4><p>计算机技术更新换代非常快，每年都有各种各样的新技术出现。仅主流编程语言，就有 Python、Java、C、C++、JavaScript、C#、Ruby、PHP、Objective-C、Swift等。</p><p>需要时刻保持好奇心，不断学习各种新的东西，才能在未来的几十年职业生涯中不落伍。</p><h4 id="不要局限在技术本身，多花精力关注用户"><a href="#不要局限在技术本身，多花精力关注用户" class="headerlink" title="不要局限在技术本身，多花精力关注用户"></a>不要局限在技术本身，多花精力关注用户</h4><p>一个高级的程序员不仅能写出像“诗”一样的代码，更能有产品经理的“眼光” — 知道用户需要什么样的产品。</p><p>现在的软件研发越来越强烈团队协作，不少团队都配置了专门的需求分析工程师、用户界面及用户体验设计师，很多程序员以为只要把技术搞好，不用管用户需求和用户体验。</p><p>怎么设计交互界面？怎样设计一款有设计感的APP，让用户觉得好用？这其实是程序员转向独立开发大牛路上的关键一步！</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/cx.jpg" alt=""></p><p>很多人觉得设计是一个“神秘不可测”的过程，但其实都有规律可循，在<a href="https://mp.weixin.qq.com/s/XVvwMnyiTwtg_qnLOrtRGw" target="_blank" rel="noopener">《独立开发者如何学习设计》</a>这篇文章当中，我已经作为一个综合的独立开发者清晰地向大家阐述了学习设计的过程。</p><p>而最近，经过一个多月的精心准备，真诚推出了<a href="https://mp.weixin.qq.com/s/gQLJBTqbyS2bIazpFZqC3Q" target="_blank" rel="noopener">《从0到1教你设计一款APP》</a>的课程，包含了十几个章节，每个章节里又细分出了很多不同的必要内容，他有很多认为重要的东西想要传递给每一个需要的人。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/banner.jpg" alt=""></p><p><a href="https://weidian.com/item.html?itemID=2582641749" target="_blank" rel="noopener">课程购买入口</a>，目前限时¥360（8月22日后即恢复原价¥660）的历史低价，每一个操作步骤都被我做成了PPT，成为了一套全能的操作指南，我更乐意于解决你们的困惑和阻碍，并成为你们的同伴。</p><p>让技术实现设计的体验，让设计服务技术的功能，这才是一个成功且不可替代的程序员。如果你也想不断提升自己，欢迎加入我们，一起码力全开！</p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。&lt;/p&gt;
+&lt;p&gt;北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。&lt;/p&gt;
+&lt;p&gt;尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大
+      
+    
+    </summary>
+    
+      <category term="课程" scheme="http://maliquankai.com/categories/%E8%AF%BE%E7%A8%8B/"/>
+    
+    
+      <category term="UI设计课程" scheme="http://maliquankai.com/tags/UI%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>从0到1教你设计一款App</title>
@@ -30,33 +57,6 @@
       
       
         &lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/course.png&quot; alt
-      
-    
-    </summary>
-    
-      <category term="课程" scheme="http://maliquankai.com/categories/%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-      <category term="UI设计课程" scheme="http://maliquankai.com/tags/UI%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>程序员该如何提升自己？</title>
-    <link href="http://maliquankai.com/2018/08/14/2018-08-17-programmer-improve/"/>
-    <id>http://maliquankai.com/2018/08/14/2018-08-17-programmer-improve/</id>
-    <published>2018-08-14T11:30:18.000Z</published>
-    <updated>2018-08-16T17:51:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。</p><p>北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。</p><p>尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大、互联网技术更新迭代速度快等原因让很多程序员疲于应付，苦不堪言。</p><p>长期以来，行业也存在一个误解：程序员的工作终点超不过35岁。如果想拥有更好的发展，学无止境不仅仅是我们一句勉励的口头禅。</p><p>程序员如何提升自己的能力？一些既懂理论又注重实践的“过来人”在电脑前摸爬打滚之后，给出了几条可行性建议：</p><h4 id="打好专业基础，累积十万工程量"><a href="#打好专业基础，累积十万工程量" class="headerlink" title="打好专业基础，累积十万工程量"></a>打好专业基础，累积十万工程量</h4><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/book.jpg" alt=""></p><p>买几本经典的编程书，把书上所有例子全部重新写一遍，逐个比较和书上范例的差距。</p><p>基础扎实后，多看看Linux 等系统级的源代码，看看高手是如何写的，就有感觉了。</p><p>一定要牢记软件工程的铁律：可能出错的地方一定会出错。每个变量都做初始化，引用每个参数都会做有效性检查，在可能出错的每个地方都会做边界条件检查。</p><p>计算机是一门实践性的科学，卡内基梅隆大学计算机系在全世界非常出名，系里要求每个博士生必须写十万行代码才能毕业，对于我们现在的程序员，也应该是一个专业积累的目标。</p><h4 id="时刻保持好奇心"><a href="#时刻保持好奇心" class="headerlink" title="时刻保持好奇心"></a>时刻保持好奇心</h4><p>计算机技术更新换代非常快，每年都有各种各样的新技术出现。仅主流编程语言，就有 Python、Java、C、C++、JavaScript、C#、Ruby、PHP、Objective-C、Swift等。</p><p>需要时刻保持好奇心，不断学习各种新的东西，才能在未来的几十年职业生涯中不落伍。</p><h4 id="不要局限在技术本身，多花精力关注用户"><a href="#不要局限在技术本身，多花精力关注用户" class="headerlink" title="不要局限在技术本身，多花精力关注用户"></a>不要局限在技术本身，多花精力关注用户</h4><p>一个高级的程序员不仅能写出像“诗”一样的代码，更能有产品经理的“眼光” — 知道用户需要什么样的产品。</p><p>现在的软件研发越来越强烈团队协作，不少团队都配置了专门的需求分析工程师、用户界面及用户体验设计师，很多程序员以为只要把技术搞好，不用管用户需求和用户体验。</p><p>怎么设计交互界面？怎样设计一款有设计感的APP，让用户觉得好用？这其实是程序员转向独立开发大牛路上的关键一步！</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/cx.jpg" alt=""></p><p>很多人觉得设计是一个“神秘不可测”的过程，但其实都有规律可循，在<a href="https://mp.weixin.qq.com/s/XVvwMnyiTwtg_qnLOrtRGw" target="_blank" rel="noopener">《独立开发者如何学习设计》</a>这篇文章当中，我已经作为一个综合的独立开发者清晰地向大家阐述了学习设计的过程。</p><p>而最近，经过一个多月的精心准备，真诚推出了<a href="https://mp.weixin.qq.com/s/gQLJBTqbyS2bIazpFZqC3Q" target="_blank" rel="noopener">《从0到1教你设计一款APP》</a>的课程，包含了十几个章节，每个章节里又细分出了很多不同的必要内容，他有很多认为重要的东西想要传递给每一个需要的人。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/banner.jpg" alt=""></p><p><a href="https://weidian.com/item.html?itemID=2582641749" target="_blank" rel="noopener">课程购买入口</a>，目前限时¥360（8月22日后即恢复原价¥660）的历史低价，每一个操作步骤都被我做成了PPT，成为了一套全能的操作指南，我更乐意于解决你们的困惑和阻碍，并成为你们的同伴。</p><p>让技术实现设计的体验，让设计服务技术的功能，这才是一个成功且不可替代的程序员。如果你也想不断提升自己，欢迎加入我们，一起码力全开！</p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。&lt;/p&gt;
-&lt;p&gt;北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。&lt;/p&gt;
-&lt;p&gt;尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大
       
     
     </summary>
