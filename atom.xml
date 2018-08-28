@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-08-23T08:54:45.000Z</updated>
+  <updated>2018-08-28T13:37:59.921Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高逼格的二维码原来是这样做出来的</title>
+    <link href="http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/"/>
+    <id>http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/</id>
+    <published>2018-08-28T13:24:18.000Z</published>
+    <updated>2018-08-28T13:37:59.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天更新了公众号尾部的二维码，有些小伙伴感兴趣是怎么做的，其实很简单，今天就详细跟大家聊一聊~</p><h4 id="1、首先我们要了解一下二维码是什么？"><a href="#1、首先我们要了解一下二维码是什么？" class="headerlink" title="1、首先我们要了解一下二维码是什么？"></a>1、首先我们要了解一下二维码是什么？</h4><p>二维码又称二维条码，常见的二维码为QR Code，QR全称Quick Response，是一个近几年来移动设备上超流行的一种编码方式，它比传统的Bar Code条形码能存更多的信息，也能表示更多的数据类型。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-1.png" alt=""></p><p>如上图：传统条形码在X轴上存储信息，二维码则多加了Y轴。</p><h4 id="2、二维码存储数据的方式"><a href="#2、二维码存储数据的方式" class="headerlink" title="2、二维码存储数据的方式"></a>2、二维码存储数据的方式</h4><p>二维码采用二进制语言，对于电脑程序来说，有0和1这两个数字就有了一切！在二维码中，白色的方块代表0，黑色的方块代表1。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-2.png" alt=""></p><h4 id="3、二维码的结构"><a href="#3、二维码的结构" class="headerlink" title="3、二维码的结构"></a>3、二维码的结构</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-3.png" alt=""></p><p>如图，一个二维码基本由这四部分组成，在对二维码进行美化时，要清楚哪些元素是可以删除或修改的，哪些地方是不能动的：</p><p>定位标志：也叫位置探测图形，俗称码眼，是用来定位二维码图形区域的，非常重要，缺少它二维码就无法被识别出来，因此绝对不能删除。</p><p>定时标志：起到确定坐标的作用，在大型二维码中比较有用，通常可以删除~</p><p>校正标志：当这个标志存在的时候，用手机斜着扫码，差不多超过45°之后才会扫不到，但是把这个标志删除掉的话，只能正面扫码，所以不建议删除！</p><p>内容信息：这个部分就是二维码包含的内容了，建议不动它们，容错率高的二维码可以适当的删减中间部分的方格（也有用头像遮挡中间部分的二维码），建议删除时多用手机扫描测试看能不能扫描出来，不行的话就ctrl+z赶紧返回。</p><h4 id="4、二维码容错率"><a href="#4、二维码容错率" class="headerlink" title="4、二维码容错率"></a>4、二维码容错率</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-4.png" alt=""></p><p>二维码的容错率分为7%、15%、25%、30%四个等级，对于目前主流手机，在绝大多数扫描场景下，容错率越高，越容易被快速扫描。同时容错率越高二维码里面的格子也就越多，通常在设计二维码时建议选择7%容错率的二维码进行设计。</p><h4 id="5、二维码识别"><a href="#5、二维码识别" class="headerlink" title="5、二维码识别"></a>5、二维码识别</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-5.png" alt=""></p><p>如图，常规二维码为了方便识别选择了两个对比度最大的颜色-黑色与白色，在重新设计二维码的时候要注意二维码颜色和背景颜色保持一定的深浅对比度，注意二维码不能使用白色，白色代表编码0，黑色代表编码1，反白之后编码会错误，二维码将不能识别。</p><h4 id="6、码力全开工作室二维码制作案例"><a href="#6、码力全开工作室二维码制作案例" class="headerlink" title="6、码力全开工作室二维码制作案例"></a>6、码力全开工作室二维码制作案例</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_6.png" alt=""></p><p>① 打开公众号二维码，根据二维码最小单元格设置参考线；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_7.png" alt=""></p><p>② 将二维码的方格元素置换为圆形、圆角矩形、圆环形等；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_8.png" alt=""> </p><p>③ 结合场景添加装饰元素。</p><h4 id="7、注意事项"><a href="#7、注意事项" class="headerlink" title="7、注意事项"></a>7、注意事项</h4><p>① 设计二维码时注意时刻扫描二维码确认可识别；</p><p>② 二维码元素置换时注意元素大小；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_9.png" alt=""> </p><p>最后，说了这么多，希望能对大家的创作有所帮助，开动脑筋一起创意有意思的二维码吧~</p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天更新了公众号尾部的二维码，有些小伙伴感兴趣是怎么做的，其实很简单，今天就详细跟大家聊一聊~&lt;/p&gt;
+&lt;h4 id=&quot;1、首先我们要了解一下二维码是什么？&quot;&gt;&lt;a href=&quot;#1、首先我们要了解一下二维码是什么？&quot; class=&quot;headerlink&quot; title=&quot;1
+      
+    
+    </summary>
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>这个logo很简单 让我画给你看</title>
@@ -506,32 +532,6 @@
       
         &lt;p&gt;最近收到想学习课程的小伙伴提出关于如何学习设计的一些疑问，之前有简单的回答过，今天打算再好好的聊一聊。&lt;/p&gt;
 &lt;h4 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h4&gt;&lt;p&gt;刚入坑移动端开
-      
-    
-    </summary>
-    
-      <category term="有故事的开发者" scheme="http://maliquankai.com/categories/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
-    
-    
-      <category term="有故事的开发者" scheme="http://maliquankai.com/tags/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>不会停止的热爱，留下的全是未来「我的 2017」</title>
-    <link href="http://maliquankai.com/2018/01/07/%E4%B8%8D%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%9A%84%E7%83%AD%E7%88%B1%EF%BC%8C%E7%95%99%E4%B8%8B%E7%9A%84%E5%85%A8%E6%98%AF%E6%9C%AA%E6%9D%A5%E3%80%8C%E6%88%91%E7%9A%84%202017%E3%80%8D/"/>
-    <id>http://maliquankai.com/2018/01/07/不会停止的热爱，留下的全是未来「我的 2017」/</id>
-    <published>2018-01-07T15:42:48.000Z</published>
-    <updated>2018-01-09T14:42:51.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/top.png" alt=""></p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p><strong>转眼2018</strong>，这两年最大的感受就是时间过得飞快，16年的年终总结推迟到3月份才写，看了16年年终总结写的17年计划，除了没完成两周阅读一本书籍的计划，其它计划都已完成且超出预期，17年的年终总结时间虽晚了些，今天还是打算回顾一下17年做了哪些事。</p><h3 id="职业转变"><a href="#职业转变" class="headerlink" title="职业转变"></a>职业转变</h3><p>16年下旬自己的职业发生转变成为一名PM，可能是自己想有更多的尝试，更大的突破，所以17年初转到了<strong>汽车智能后视镜行业</strong>，做了一段时间后，发现自己并不是特别喜欢，然后回归老本行，成为一名独立开发者，贴一张那个时候设计的后视镜图。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/%E5%90%8E%E8%A7%86%E9%95%9C.png" alt=""></p><h3 id="独立开发的作品"><a href="#独立开发的作品" class="headerlink" title="独立开发的作品"></a>独立开发的作品</h3><p><strong>兴趣和热爱的驱使</strong>，工作之余一直再利用业余时间开发自己的产品。</p><p>2017年9月份写了一篇<a href="http://www.qidianlife.com/Singular/index.php?m=App&amp;c=Slides&amp;a=index&amp;id=5215" target="_blank" rel="noopener">我用3个月的时间做了5款App</a>的文章，除了这5款作品外，另外一款作品<a href="http://a.app.qq.com/o/simple.jsp?pkgname=com.lishichao.singularity" target="_blank" rel="noopener">「奇点日报」</a>是16年中旬开发上线的，以下是5款产品的上线时间。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/App课程图/iPhone%20X优化2.png" alt=""></p><p>2017，5月13日第二个产品<a href="https://itunes.apple.com/us/app/心动屋-发现令你心动的好物/id1234003952?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">「心动屋」</a>1.0版本正式上架AppStore，至今版本迭代了11次，产品定位轻量级的文艺范购物应用。</p><p>2017，6月15日第三个产品<a href="https://itunes.apple.com/us/app/拾光记-拾起你走过的时光/id1247124599?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">「拾光记」</a>1.0版本正式上架AppStore，至今迭代9次，产品定位一段文字一张配图记录生活的点点滴滴。</p><p>2017，6月27日第四个产品<a href="https://itunes.apple.com/us/app/壹日程-专注任务管理和待办计划提醒/id1251547470?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">「壹日程」</a>1.0版本正式上架AppStore，至今迭代11次，产品定位专注任务管理和待办计划提醒。</p><p>2017，7月12日第五个产品<a href="https://itunes.apple.com/us/app/口袋密码-安全简洁的账号管家/id1256288406?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">「口袋密码」</a>1.0版本正式上架AppStore，至今迭代7次，产品定位安全简洁的账号管家。</p><p>2017，8月07日第六个产品<a href="https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">「破壳日」</a>1.0版本正式上架AppStore，至今迭代9次，产品定位精美的生日 · 节日 · 纪念日礼物提醒工具。</p><h3 id="有温度的Coder"><a href="#有温度的Coder" class="headerlink" title="有温度的Coder"></a>有温度的Coder</h3><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/coder.png" alt=""></p><p>2017，完成了6款产品的打磨后，这个过程沉淀的开发、产品、设计相关的一些东西总结成了一套课程，课程取名为<a href="http://mp.weixin.qq.com/s/sm3OEEiqapPALLnty2UBOQ" target="_blank" rel="noopener">《有温度的Coder》</a>。</p><p>第一期于10月26日正式开课，目前一期课程学员控制到了40人，完成了 C/Objective-C 全部基础知识的输出，同时完成了一个便签类项目的实战，现正在进行第二个项目的实战，涉及设计、后台、前端、产品运营的一些内容，实战难度由易到难。</p><p>每天坚持为学员提供课程内容，解答关于产品、技术、设计的一些问题，更详细的内容参考<a href="https://www.v2ex.com/t/414436#reply2" target="_blank" rel="noopener">有温度的 Coder： 0 到 1 设计&amp;开发一款高质量精品 App</a>。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/course.png" alt=""></p><h3 id="访谈推荐"><a href="#访谈推荐" class="headerlink" title="访谈推荐"></a>访谈推荐</h3><p>2017，11月28日<a href="https://mp.weixin.qq.com/s/F5CJZx_o7EyalWb0eDwYTA" target="_blank" rel="noopener">「Price Tag 专访推荐」</a>梳理了近期独立开发的状态，认真思考回顾了每开发一款产品的方向和定位。</p><p>2017，12月28日<a href="http://mp.weixin.qq.com/s/EyUQTT_JjFMxRnAPZ6Xweg" target="_blank" rel="noopener">「利器 访谈推荐」</a>回顾了我使用过的所有利器，同时也分享了决定成为一名独立开发者做了什么权衡。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/interview.png" alt=""></p><p>非常感谢以上两个平台的推荐，为我的个人作品带来了一波流量，同时也更坚定了独立开发者这条路，祝越来越好。</p><h3 id="成立码力全开工作室"><a href="#成立码力全开工作室" class="headerlink" title="成立码力全开工作室"></a>成立码力全开工作室</h3><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/maliquankai.png" alt=""></p><p>2017，12月18日<a href="http://maliquankai.com/">「码力全开工作室成立」</a>，码力全开不止是一个工作室，更倾向于是一个独立开发者交流、讨论、学习的聚集地。在这里，打造自己产品的同时，也希望自己变得越来越专业，帮助更多的人成为独立开发者。</p><h3 id="2018年的计划"><a href="#2018年的计划" class="headerlink" title="2018年的计划"></a>2018年的计划</h3><p>2018年，希望能够少一些目标，把自己想做的事做的更专业，主要有以下几个目标。</p><ul><li><p>持续学习，打磨完善自己的课程《有温度的Coder》，更专业的去服务独立开发者。</p></li><li><p>提升「<a href="http://maliquankai.com">码力全开工作室</a>」的影响力，为自己和优秀作品的独立开发者提供免费宣传的渠道。</p></li><li><p>链接更多的大牛/平台，完成自己一款新产品的开发。</p></li><li><p>阅读12本书，完成简单的读书笔记。</p></li></ul><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>2018希望大家越来越好，送一句迟来的新年寄语：「得之不喜，失之不忧」，希望正在做自己产品的小伙伴坚持下去，机会总会有的。</p><p>希望我这一生能被兴趣和热爱引导，能为更多的人创造出有用的产品，同时也能让自己的兴趣成为我赚钱的能力。</p><p><strong>欢迎通过以下渠道关注我：</strong></p><p><a href="https://weibo.com/u/2267155115" target="_blank" rel="noopener">我的微博Larry_Dev</a></p><p><a href="http://www.zhihu.com/people/amin706" target="_blank" rel="noopener">我的知乎Larry</a></p><p><a href="http://maliquankai.com">码力全开官网</a></p><p><a href="https://weibo.com/forcecode" target="_blank" rel="noopener">码力全开工作室微博</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn-shanghai.aliyuncs.com/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/top.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;前言&quot;&gt;&lt;a hre
       
     
     </summary>
