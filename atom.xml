@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-08-28T14:57:45.840Z</updated>
+  <updated>2018-08-31T06:49:17.885Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>聊一聊iOS系统图标栅格&amp;带你绘制系统图标</title>
+    <link href="http://maliquankai.com/2018/08/31/2018-08-31-app-icon/"/>
+    <id>http://maliquankai.com/2018/08/31/2018-08-31-app-icon/</id>
+    <published>2018-08-31T06:49:18.000Z</published>
+    <updated>2018-08-31T06:49:17.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>在图标设计时，为了保证图标的视觉大小统一，通常会使用系统图标栅格。今天从以下几点和大家聊一聊iOS系统图标栅格：</p><ul><li>应用图标栅格</li><li>系统图标栅格</li><li>系统图标栅格的制定</li><li>系统图标的分类与栅格规范</li><li>系统图标绘制示例</li></ul><h4 id="应用图标栅格"><a href="#应用图标栅格" class="headerlink" title="应用图标栅格"></a>应用图标栅格</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic1.png" alt=""></p><p>应用图标栅格完美运用了《秩序之美》中的黄金分割、√2 、三分法三个比例。</p><p>以64px为一个单位，即a=64px。那么大正方形的边长的一半=8a，大圆半径=7a，中圆半径=4.25a，小圆半径=3a。</p><p>8a÷(8a-3a)=1.6 小圆与大正方形接近黄金分割比<br>7a÷4.25a≈1.647 中圆与大圆接近黄金分割比<br>4.25a÷3a≈1.417 中圆与小圆比例接近√2</p><p>整个栅格系统中的尺寸都是通过黄金比例互相联系的。</p><h4 id="系统图标栅格"><a href="#系统图标栅格" class="headerlink" title="系统图标栅格"></a>系统图标栅格</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic2.png" alt=""></p><p>系统图标栅格直接沿用应用图标栅格内圆部分，即：</p><p>8a÷(8a-3a)=1.6 小圆与大正方形接近黄金分割比<br>7a÷4.25a≈1.647 中圆与大圆接近黄金分割比<br>4.25a÷3a≈1.417 中圆与小圆比例接近√2</p><h4 id="系统图标栅格的制定"><a href="#系统图标栅格的制定" class="headerlink" title="系统图标栅格的制定"></a>系统图标栅格的制定</h4><p>系统图标在应用界面内，以iOS界面底部标签栏系统图标标准大小44x44px为标准尺寸，定制系统图标栅格。将应用图标栅格内圆部分提取出来，然后将尺寸等比缩小为44px，并添加一个44px的正方形边框，这样就得到了一个系统图标的基本栅格。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic3.png" alt=""></p><h4 id="系统图标的分类与栅格规范"><a href="#系统图标的分类与栅格规范" class="headerlink" title="系统图标的分类与栅格规范"></a>系统图标的分类与栅格规范</h4><p>系统图标的造型多种多样，但整体形状分为圆形图标、正方形图标、横长形图标、竖长形图标及异形图标五种。设计时这五种图标如果按照标准尺寸同一大小设计的话，会出现图标视觉大小不统一的问题，因此根据图标不同的形状栅格规范也不相同。</p><h4 id="圆形图标"><a href="#圆形图标" class="headerlink" title="圆形图标"></a>圆形图标</h4><p>圆形本身具有很强的视觉收缩性，因此在定制圆形图标的栅格时，为了和其他图形的图标保持视觉一致，在基本栅格中占满整个44x44px的网格以保证圆形图标的视觉张力，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic4.png" alt=""></p><h4 id="方形图标"><a href="#方形图标" class="headerlink" title="方形图标"></a>方形图标</h4><p>正方形图标在实际尺寸下比圆形图标多出了四个尖角，所以为了和圆形相统一，一般缩小正方形6px，缩小后的正方形尺寸为38x38px，面积和圆形的面积基本一致，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic5.png" alt=""></p><h4 id="横长形图标"><a href="#横长形图标" class="headerlink" title="横长形图标"></a>横长形图标</h4><p>橫长形图标和方形图标一样有四个尖角，相比方形图标压低高度4px，即44x34px，橫长形面积和圆形的面积基本一致，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic6.png" alt=""></p><h4 id="竖长形图标"><a href="#竖长形图标" class="headerlink" title="竖长形图标"></a>竖长形图标</h4><p>竖长形图标和橫长形图标一样，只是旋转90°就可以了，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic7.png" alt=""></p><h4 id="异形图标"><a href="#异形图标" class="headerlink" title="异形图标"></a>异形图标</h4><p>异形图标是不能简单归纳为几何图形的图标，其栅格就是基本栅格，然后根据图标的实际情况适当调整图标大小即可，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic8.png" alt=""></p><h4 id="系统图标绘制示例"><a href="#系统图标绘制示例" class="headerlink" title="系统图标绘制示例"></a>系统图标绘制示例</h4><p><strong>1、新建画布44x44px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic9.png" alt=""></p><p><strong>2、拖入系统图标栅格文件，锁定图层</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic10.png" alt=""></p><p><strong>3、矩形工具U绘制38x24px的矩形</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic11.png" alt=""></p><p><strong>4、白箭头A（直接选择工具）选择矩形右下角锚点，shift+向左方向键，将锚点向左移动10px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic12.png" alt=""></p><p><strong>5、圆角插件Corner Editor给形状切圆角，圆角半径4px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic13.png" alt=""></p><p><strong>6、椭圆工具U绘制手指，绘制时注意对齐的点，矩形工具布尔运算选择交叉形状区域，最后用小圆补齐手指</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic14.png" alt=""></p><p><strong>7、白箭头A调整手掌宽度，选择手掌和手指图层command+E合并图层，矩形工具U按option绘制减去的矩形，调整图层内容的位置在图标栅格视觉中心点</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic15.png" alt=""></p><p><strong>8、图层面板选择形状图层添加图层样式，选择渐变叠加，添加黄色#f48236到红的#e62e3e的线性渐变，渐变角度135°</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic16.png" alt=""></p><p><strong>9、command+S保存文件</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic17.png" alt=""></p><p>以上就是我总结的内容，就这样了，文中源文件地址：<a href="https://pan.baidu.com/s/1PLg8d5I7ZVcaEpODq3o1RQ，需要的自取。" target="_blank" rel="noopener">https://pan.baidu.com/s/1PLg8d5I7ZVcaEpODq3o1RQ，需要的自取。</a></p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在图标设计时，为了保证图标的视觉大小统一，通常会使用系统图标栅格。今天从以下几点和大家聊一聊iOS系统图标栅格：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;应用图标栅格&lt;/li&gt;
+&lt;li&gt;系统图标栅格&lt;/li&gt;
+&lt;li&gt;系统图标栅格的制定&lt;/li&gt;
+&lt;li&gt;系统图标的分类与栅格规范&lt;/li
+      
+    
+    </summary>
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>高逼格的二维码原来是这样做出来的</title>
@@ -31,36 +61,6 @@
       
         &lt;p&gt;昨天新设计了公众号尾部的二维码，有些小伙伴感兴趣是怎么做的，其实很简单，今天就详细跟大家聊一聊~&lt;/p&gt;
 &lt;h4 id=&quot;1、首先我们要了解一下二维码是什么？&quot;&gt;&lt;a href=&quot;#1、首先我们要了解一下二维码是什么？&quot; class=&quot;headerlink&quot; title=&quot;
-      
-    
-    </summary>
-    
-      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>聊一聊iOS系统图标栅格&amp;带你绘制系统图标</title>
-    <link href="http://maliquankai.com/2018/08/28/2018-08-31-app-icon/"/>
-    <id>http://maliquankai.com/2018/08/28/2018-08-31-app-icon/</id>
-    <published>2018-08-28T13:24:18.000Z</published>
-    <updated>2018-08-31T06:39:58.036Z</updated>
-    
-    <content type="html"><![CDATA[<p>在图标设计时，为了保证图标的视觉大小统一，通常会使用系统图标栅格。今天从以下几点和大家聊一聊iOS系统图标栅格：</p><ul><li>应用图标栅格</li><li>系统图标栅格</li><li>系统图标栅格的制定</li><li>系统图标的分类与栅格规范</li><li>系统图标绘制示例</li></ul><h4 id="应用图标栅格"><a href="#应用图标栅格" class="headerlink" title="应用图标栅格"></a>应用图标栅格</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic1.png" alt=""></p><p>应用图标栅格完美运用了《秩序之美》中的黄金分割、√2 、三分法三个比例。</p><p>以64px为一个单位，即a=64px。那么大正方形的边长的一半=8a，大圆半径=7a，中圆半径=4.25a，小圆半径=3a。</p><p>8a÷(8a-3a)=1.6 小圆与大正方形接近黄金分割比<br>7a÷4.25a≈1.647 中圆与大圆接近黄金分割比<br>4.25a÷3a≈1.417 中圆与小圆比例接近√2</p><p>整个栅格系统中的尺寸都是通过黄金比例互相联系的。</p><h4 id="系统图标栅格"><a href="#系统图标栅格" class="headerlink" title="系统图标栅格"></a>系统图标栅格</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic2.png" alt=""></p><p>系统图标栅格直接沿用应用图标栅格内圆部分，即：</p><p>8a÷(8a-3a)=1.6 小圆与大正方形接近黄金分割比<br>7a÷4.25a≈1.647 中圆与大圆接近黄金分割比<br>4.25a÷3a≈1.417 中圆与小圆比例接近√2</p><h4 id="系统图标栅格的制定"><a href="#系统图标栅格的制定" class="headerlink" title="系统图标栅格的制定"></a>系统图标栅格的制定</h4><p>系统图标在应用界面内，以iOS界面底部标签栏系统图标标准大小44x44px为标准尺寸，定制系统图标栅格。将应用图标栅格内圆部分提取出来，然后将尺寸等比缩小为44px，并添加一个44px的正方形边框，这样就得到了一个系统图标的基本栅格。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic3.png" alt=""></p><h4 id="系统图标的分类与栅格规范"><a href="#系统图标的分类与栅格规范" class="headerlink" title="系统图标的分类与栅格规范"></a>系统图标的分类与栅格规范</h4><p>系统图标的造型多种多样，但整体形状分为圆形图标、正方形图标、横长形图标、竖长形图标及异形图标五种。设计时这五种图标如果按照标准尺寸同一大小设计的话，会出现图标视觉大小不统一的问题，因此根据图标不同的形状栅格规范也不相同。</p><h4 id="圆形图标"><a href="#圆形图标" class="headerlink" title="圆形图标"></a>圆形图标</h4><p>圆形本身具有很强的视觉收缩性，因此在定制圆形图标的栅格时，为了和其他图形的图标保持视觉一致，在基本栅格中占满整个44x44px的网格以保证圆形图标的视觉张力，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic4.png" alt=""></p><h4 id="方形图标"><a href="#方形图标" class="headerlink" title="方形图标"></a>方形图标</h4><p>正方形图标在实际尺寸下比圆形图标多出了四个尖角，所以为了和圆形相统一，一般缩小正方形6px，缩小后的正方形尺寸为38x38px，面积和圆形的面积基本一致，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic5.png" alt=""></p><h4 id="横长形图标"><a href="#横长形图标" class="headerlink" title="横长形图标"></a>横长形图标</h4><p>橫长形图标和方形图标一样有四个尖角，相比方形图标压低高度4px，即44x34px，橫长形面积和圆形的面积基本一致，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic6.png" alt=""></p><h4 id="竖长形图标"><a href="#竖长形图标" class="headerlink" title="竖长形图标"></a>竖长形图标</h4><p>竖长形图标和橫长形图标一样，只是旋转90°就可以了，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic7.png" alt=""></p><h4 id="异形图标"><a href="#异形图标" class="headerlink" title="异形图标"></a>异形图标</h4><p>异形图标是不能简单归纳为几何图形的图标，其栅格就是基本栅格，然后根据图标的实际情况适当调整图标大小即可，如下图：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic8.png" alt=""></p><h4 id="系统图标绘制示例"><a href="#系统图标绘制示例" class="headerlink" title="系统图标绘制示例"></a>系统图标绘制示例</h4><p><strong>1、新建画布44x44px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic9.png" alt=""></p><p><strong>2、拖入系统图标栅格文件，锁定图层</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic10.png" alt=""></p><p><strong>3、矩形工具U绘制38x24px的矩形</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic11.png" alt=""></p><p><strong>4、白箭头A（直接选择工具）选择矩形右下角锚点，shift+向左方向键，将锚点向左移动10px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic12.png" alt=""></p><p><strong>5、圆角插件Corner Editor给形状切圆角，圆角半径4px</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic13.png" alt=""></p><p><strong>6、椭圆工具U绘制手指，绘制时注意对齐的点，矩形工具布尔运算选择交叉形状区域，最后用小圆补齐手指</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic14.png" alt=""></p><p><strong>7、白箭头A调整手掌宽度，选择手掌和手指图层command+E合并图层，矩形工具U按option绘制减去的矩形，调整图层内容的位置在图标栅格视觉中心点</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic15.png" alt=""></p><p><strong>8、图层面板选择形状图层添加图层样式，选择渐变叠加，添加黄色#f48236到红的#e62e3e的线性渐变，渐变角度135°</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic16.png" alt=""></p><p><strong>9、command+S保存文件</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E6%95%99%E4%BD%A0%E7%94%BB%E4%B8%80%E4%B8%AA%E7%82%B9%E8%B5%9E%E5%9B%BE%E6%A0%87%2Fpic17.png" alt=""></p><p>以上就是我总结的内容，就这样了，文中源文件地址：<a href="https://pan.baidu.com/s/1PLg8d5I7ZVcaEpODq3o1RQ，需要的自取。" target="_blank" rel="noopener">https://pan.baidu.com/s/1PLg8d5I7ZVcaEpODq3o1RQ，需要的自取。</a></p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在图标设计时，为了保证图标的视觉大小统一，通常会使用系统图标栅格。今天从以下几点和大家聊一聊iOS系统图标栅格：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;应用图标栅格&lt;/li&gt;
-&lt;li&gt;系统图标栅格&lt;/li&gt;
-&lt;li&gt;系统图标栅格的制定&lt;/li&gt;
-&lt;li&gt;系统图标的分类与栅格规范&lt;/li
       
     
     </summary>
