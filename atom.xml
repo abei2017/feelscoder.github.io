@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-09-18T06:30:30.922Z</updated>
+  <updated>2018-09-20T03:28:03.207Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>让你的设计动起来，一起做个小动画</title>
+    <link href="http://maliquankai.com/2018/09/20/2018-09-20-time-gif/"/>
+    <id>http://maliquankai.com/2018/09/20/2018-09-20-time-gif/</id>
+    <published>2018-09-20T02:54:18.000Z</published>
+    <updated>2018-09-20T03:28:03.207Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>最近一直在做设计相关的内容，提升自己的同时不忘分享。<strong>时间轴</strong>是隐藏在PS窗口菜单下的一个<strong>制作GIF动画的小工具</strong>，提供帧动画和视频时间轴两种动画创建方式，今天就先带大家一起了解一下帧动画，下次推送将以视频时间轴的方式来进行其它动画效果的案例讲解。</p></blockquote><h4 id="打开时间轴窗口"><a href="#打开时间轴窗口" class="headerlink" title="打开时间轴窗口"></a>打开时间轴窗口</h4><p>PS默认状态下时间轴窗口是关闭的，在窗口菜单选项卡里找到时间轴，点击将其勾选即可打开时间轴窗口，打开的时间轴窗口在画布下面显示。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F1.png" alt=""></p><h4 id="创建帧动画"><a href="#创建帧动画" class="headerlink" title="创建帧动画"></a>创建帧动画</h4><p>PS提供帧动画和视频时间轴两种动画创建方式，在打开时间轴窗口后，窗口内显示一种创建动画的方式，点击该创建方法后面的下拉菜单按钮，显示两种创建方式，点击选择创建帧动画。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F2.png" alt=""></p><p>创建后的帧动画和视频时间轴可以通过时间轴窗口左下角转换图标进行相互转换。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F3.png" alt=""></p><h4 id="帧动画"><a href="#帧动画" class="headerlink" title="帧动画"></a>帧动画</h4><p><strong>帧动画</strong>是PS最早提供的创建动画的方式，这种方法需要将动画中的每一个动作帧绘制出来，之后将这些动作帧按顺序连贯成动画。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F4.gif" alt=""></p><h4 id="制作示例"><a href="#制作示例" class="headerlink" title="制作示例"></a>制作示例</h4><p>这里只展示动画制作过程，关键帧画面根据动画风格有不同的表现手法，根据动画的复杂程度关键帧的张数也不一样，可以参看社交平台上的表情观察动画是怎么动的，思考绘制关键帧及制作方法等。</p><p><strong>1、</strong>新建文档（文档大小随意设定，这里设置为240x240px）；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F5.png" alt=""></p><p><strong>2、</strong>将动画关键帧导入文档，只显示第一个关键帧-图层1，隐藏关键帧2和3-图层2和3；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F6.png" alt=""></p><p><strong>3、</strong>打开时间轴窗口，创建帧动画；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F7.png" alt=""></p><p><strong>4、</strong>选择时间轴窗口第1个帧画面，然后点击窗口底部复制所选关键帧图标，创建关键帧2、关键帧3；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F8.png" alt=""></p><p><strong>5、</strong>设定每个关键帧对应的画面——时间轴窗口选择关键帧1设定图层窗口显示图层为图层1，选择关键帧2设定显示图层为图层2，选择关键帧3设定显示图层为图层3；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F9.png" alt=""></p><p><strong>6、</strong>设定关键帧显示时间——在关键帧缩略图下设置每一帧的显示时间，默认会给出几个常用的显示时间，也可通过“其它…”选项设置不常用的显示时间数值，“其它…”选项下面的数值是该关键帧的当前显示时间；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F10.png" alt=""></p><p><strong>7、</strong>设置动画循环——在时间轴窗口底部“选择循环选项”设置动画循环次数；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F11.png" alt=""></p><p><strong>8、</strong>播放预览动画——时间轴窗口底部，设置动画循环右侧，点击播放按钮即可按设置的循环次数循环播放动画；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F12.png" alt=""></p><p>9、存储并导出动画—— command+S存储文档，option+shift+command+S存储为web所用格式，选择文件格式为GIF，动画循环选项确定循环次数，以及播放预览动画。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4%2F%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E4%B8%AA%E5%B0%8F%E5%8A%A8%E7%94%BB%2F13.png" alt=""></p><p>最后，公众号文章我给自己定的计划是隔天推送，但最近总是被延误，因为每次推送我都想把尽量多的干货带给你们，<strong>从内容到文章排版的精心准备</strong>，只希望能给你们带来舒心阅读体验的同时还能学到一点内容。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;最近一直在做设计相关的内容，提升自己的同时不忘分享。&lt;strong&gt;时间轴&lt;/strong&gt;是隐藏在PS窗口菜单下的一个&lt;strong&gt;制作GIF动画的小工具&lt;/strong&gt;，提供帧动画和视频时间轴两种动画创建方式，今天就先带大家一起了解一下帧动
+      
+    
+    </summary>
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>你会收下这些图库网站</title>
@@ -520,35 +546,6 @@
     
     
       <category term="课程" scheme="http://maliquankai.com/tags/%E8%AF%BE%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Icon Test — 手机上快速预览应用图标的神器</title>
-    <link href="http://maliquankai.com/2018/05/30/2018-05-30-icontest-product/"/>
-    <id>http://maliquankai.com/2018/05/30/2018-05-30-icontest-product/</id>
-    <published>2018-05-29T17:00:28.000Z</published>
-    <updated>2018-05-30T08:47:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>好的设计不仅仅是为了审美。这是关于你付出多少汗水的细节。</p><p>为了创建一个满意的图标，你最终必须测试它的许多版本在真实设备上看看哪一个是最好的。</p></blockquote><p>不知你是否有过这样的烦恼，产品icon不断调整，为了更直观的让大家看到真实的效果，你不得不导出不同版本、组合的图标给大家，事儿不难但却繁琐。</p><p>今天给大家介绍的App —— <strong>Icon Test</strong>，就是这样一款可以帮你快速预览应用图标的工具。</p><h4 id="Icon-Test的来源"><a href="#Icon-Test的来源" class="headerlink" title="Icon Test的来源"></a>Icon Test的来源</h4><p>前段时间再确定码力全开logo的时候，由于一直再不断调整，前后画了十几个，所以想把这些logo以应用图标的形式展示到手机上查看效果，想到了以前用过的ICNS，ICNS的思路其实很简单，设计好logo，导出到dropbox文件夹，打开应用预览，但目前此款应用找不到了。</p><p>就这样开始了Icon Test的开发。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/IconTest_animation.gif" alt=""></p><h4 id="Icon-Test-有哪些功能？"><a href="#Icon-Test-有哪些功能？" class="headerlink" title="Icon Test 有哪些功能？"></a>Icon Test 有哪些功能？</h4><p>Icon Test首页类似iOS原生系统的宫格布局，你只需要把做好的Icon 发到手机上，打开App随意点击任何一个图标即可替换，同时点击名字也可以修改。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/1_main_h.png" alt=""></p><p>如果你想看一看修改后的logo在不同背景不同位置下的效果，又或者你觉得它不太满意，想删除，删除了又想恢复？</p><p>Icon Test都可以满足你的需求，它不仅提供了自定义背景和官方背景图，同时还具有模糊背景突出logo的功能，logo支持长按移动和删除，删除后的Icon会自动收纳到回收站，长按即可恢复。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/2_wallpaper_h.png" alt=""></p><p>经过一番调整之后，终于确定了最终的logo，想保存分享？又或者分享之前想用画笔圈出你最终确定的那个，这些功能<strong>Icon Test</strong>同样具备。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/3_edit_h.png" alt=""><br><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/5_share_h.png" alt=""></p><p>确定了logo，但App开发往往需要不同尺寸的logo，譬如：</p><ol><li>开发者平台 - QQ、微信、微博等.</li><li>Xcode工程AppIcon.</li></ol><p><strong>注：导出之后的不同尺寸logo是jpg格式。</strong></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/4_makesize_h.png" alt=""></p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>Icon Test作为一款刚上架的App，还存在很多需要优化的问题，希望版本持续的迭代能给你们带来越来越好的功能和体验。</p><p>Icon Test目前AppStore定价3元，有需要的小伙伴可以去下载体验。</p><p><a href="https://itunes.apple.com/us/app/icon-test/id1376529555?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">下载地址</a></p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/IconTest/app_show.png" alt=""></p><h4 id="微博抽奖"><a href="#微博抽奖" class="headerlink" title="微博抽奖"></a>微博抽奖</h4><p><a href="https://weibo.com/ttarticle/p/show?id=2309404245386679159545" target="_blank" rel="noopener">Icon Test转发送码</a></p><p>如果你有任何好的建议或想法，欢迎与我联系。</p><ul><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="http://maliquankai.com">工作室</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;好的设计不仅仅是为了审美。这是关于你付出多少汗水的细节。&lt;/p&gt;
-&lt;p&gt;为了创建一个满意的图标，你最终必须测试它的许多版本在真实设备上看看哪一个是最好的。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不知你是否有过这样的烦恼，产品icon不断调整，为
-      
-    
-    </summary>
-    
-      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-    
-      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
   </entry>
   
