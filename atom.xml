@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-10-11T06:18:37.768Z</updated>
+  <updated>2018-10-11T06:25:48.636Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>绘制表情包该从哪里入手呢</title>
-    <link href="http://maliquankai.com/2018/10/08/2018-10-11-emoticon/"/>
-    <id>http://maliquankai.com/2018/10/08/2018-10-11-emoticon/</id>
-    <published>2018-10-08T14:10:18.000Z</published>
-    <updated>2018-10-11T06:18:37.768Z</updated>
+    <link href="http://maliquankai.com/2018/10/11/2018-10-11-emoticon/"/>
+    <id>http://maliquankai.com/2018/10/11/2018-10-11-emoticon/</id>
+    <published>2018-10-11T06:25:18.000Z</published>
+    <updated>2018-10-11T06:25:48.636Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>国庆前就和大家说打算做<strong>码力全开的表情包</strong>，其实在此之前我也没做过表情包，只是去年有过个这个想法，想过做一些微信的表情包，感觉还挺好玩，今天是准备工作室表情包的第一天，顺便整理了一些<strong>制作表情包相关的知识以及工作室logo角色形象</strong>初稿一起展示分享给大家~</p></blockquote><p>####1、表情角色形象</p><p>微信表情支持<strong>截屏表情、真人拍摄表情、卡通表情及其它</strong>，在开始制作表情前，首先要确定的是所要制作的表情类型，根据类型选择或绘制形象是制作表情的第一步。</p><p>以卡通形象表情为例，根据将要表达的内容构思角色形象并赋予角色一定的性格特点，之后绘制形象手稿，在绘制出满意的形象之后进一步绘制形象不同情绪状态下的形态场景，以便后续快速完成表情包。</p><p>下面是我抽空画的3个工作室角色形象初稿，都是以码力全开logo为出发点进行角色构思的，白纸上也画了很多，感觉都还不太理想，接下来还是会继续优化或构思更优的形象，这里就不针对形象进行过多的说明了。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BB%98%E5%88%B6%E8%A1%A8%E6%83%85%E5%8C%85%E8%AF%A5%E4%BB%8E%E5%93%AA%E9%87%8C%E5%85%A5%E6%89%8B%E5%91%A2/a1.jpg" alt=""></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BB%98%E5%88%B6%E8%A1%A8%E6%83%85%E5%8C%85%E8%AF%A5%E4%BB%8E%E5%93%AA%E9%87%8C%E5%85%A5%E6%89%8B%E5%91%A2/a2.jpg" alt=""></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BB%98%E5%88%B6%E8%A1%A8%E6%83%85%E5%8C%85%E8%AF%A5%E4%BB%8E%E5%93%AA%E9%87%8C%E5%85%A5%E6%89%8B%E5%91%A2/a3.jpg" alt=""></p><p>微信表情主图尺寸是<strong>240x240px</strong>，并且卡通表情大小要求<strong>不超过100KB</strong>，因此在绘制角色形象时，要注意控制角色色彩数量、色彩面积、图形复杂度及图形尺寸，这些都和表情占用的内存空间成正比。</p><h4 id="2、表情包内容"><a href="#2、表情包内容" class="headerlink" title="2、表情包内容"></a>2、表情包内容</h4><p>微信表情商店里上架的表情专辑分两种：<strong>16个表情、24个表情</strong>。因此制作表情时具体绘制多少张以及每一张要表达什么情感内容都要提前确定下来，这样针对每一个表情可以预先规划形象风格和动作，同时也可以设定每个表情的制作时间节点，将工作量拆分，避免拖延和懒惰。</p><p><strong>常见的表情情绪表达类型有以下几种：</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BB%98%E5%88%B6%E8%A1%A8%E6%83%85%E5%8C%85%E8%AF%A5%E4%BB%8E%E5%93%AA%E9%87%8C%E5%85%A5%E6%89%8B%E5%91%A2/in.jpg" alt=""></p><h4 id="3、表情展示"><a href="#3、表情展示" class="headerlink" title="3、表情展示"></a>3、表情展示</h4><p>表情展示有<strong>静态和动态</strong>两种，微信表情商店要求同一套表情必须全部是静态或全部是动态，不能部分静态部分动态。</p><p>在制作静态表情时，要注意形象情绪要尽可能贴切表达，必要时也可在形象旁添加文字，不过添加文字后表情的使用范围将会被限定，因此具体制作时要权衡取舍。</p><p>制作动态表情时要注意表情<strong>文件大小不能超过100KB的限制</strong>，因此表情动画效果要尽可能简单表明情绪和态度。另外动态表情设计中通常还会制作一些微表情，比如，动物类的抖耳朵、摇尾巴、点头、眨眼睛等。</p><h4 id="4、制作工具"><a href="#4、制作工具" class="headerlink" title="4、制作工具"></a>4、制作工具</h4><p>绘制表情的工具有很多，<strong>PS、AI、手绘板等</strong>，制作动态表情可以在PS中制作，也可以在AE中制作，没有规范说必须要使用哪个工具，使用自己熟悉喜欢的工具就好了，之前公众号推过<a href="https://mp.weixin.qq.com/s/Lk4VkrCzJ7nMTVth5h2QgA" target="_blank" rel="noopener">《让你的设计动起来，一起做个小动画》</a>讲解PS时间轴-帧动画以及<a href="https://mp.weixin.qq.com/s/LOIAasP7ZFh8To_GIAznVQ" target="_blank" rel="noopener">《让你的设计更有趣，轻松做动画》</a>讲解PS时间轴-视频时间轴动画，想了解的小伙伴可以去查看。</p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>关于码力全开的角色形象和表情包还在不断优化确认中，有想法的可以交流一下，让我们一起创造更多有趣好玩的内容~</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
     
