@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-10-11T06:25:48.636Z</updated>
+  <updated>2018-10-16T16:34:48.817Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>停更三天，我只做了这一件事</title>
+    <link href="http://maliquankai.com/2018/10/16/2018-10-16-miniprogram/"/>
+    <id>http://maliquankai.com/2018/10/16/2018-10-16-miniprogram/</id>
+    <published>2018-10-16T14:34:18.000Z</published>
+    <updated>2018-10-16T16:34:48.817Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry，前几天和几个朋友一起吃饭聊到各自的工作状态，其中一个朋友也是从事开发工作，他辞职后家底比较厚待业快一年了，他说手里的钱明年也够花了。</p><p>18年互联网行业一直处于低迷的状态，今年经常看到中年危机、老程序员沦落出局的新闻，程序员焦虑、缺乏安全感，在我看来多把时间用在学习充电提升自己上，什么危机应该都不是事儿，我只想告诉大家一句：<strong>改变自己，从现在做起。</strong></p><h4 id="新版小程序正式上线"><a href="#新版小程序正式上线" class="headerlink" title="新版小程序正式上线"></a>新版小程序正式上线</h4><p>码力全开商店<strong>新版小程序正式上线了！</strong>UI层面上我一直是有一些强迫症的，不想随便搞一个模板就匆匆上线，所以这几天从框架布局到UI细节一直在不断打磨，现在完成的整体效果觉得还算OK，所以就分享出来希望大家及时关注，<strong>庆祝上线文末有福利哦~</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/%E9%85%8D%E5%9B%BE-%E9%A6%96%E9%A1%B5.png" alt=""></p><p>码力全开商店目前的规划是这样的，商店内容主要分为三大块：<strong>全栈课程、知识专栏、极客周边。</strong></p><h4 id="全栈课程"><a href="#全栈课程" class="headerlink" title="全栈课程"></a>全栈课程</h4><p>目前是围绕<strong>UI设计、iOS、Android、Java</strong>四个方向进行课程输出，由于目前都是偏向从基础到实战的课程，所以计划开放一些阶段性的免费课程，也打算细化一下课程内容，更有针对性的去服务学员。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/%E9%85%8D%E5%9B%BE1-%E5%85%A8%E6%A0%88%E8%AF%BE%E7%A8%8B.png" alt=""></p><p>同时也希望自己能把更多的时间放在课程的研发上，考虑录制一些简短的视频来阐述一个知识点。</p><h4 id="知识专栏"><a href="#知识专栏" class="headerlink" title="知识专栏"></a>知识专栏</h4><p>采用免费+付费的模式，结合我自身的资源优势，会进行专栏输出，如：如何自学编程、业余时间赚钱的方式、如何搭建一款App的UI、App接口开发，从服务器选配到搭建等等。也会围绕自己平时的设计积累进行内容输出，主要包含以下几个方面：</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/%E9%85%8D%E5%9B%BE2-%E8%AE%A2%E9%98%85%E4%B8%93%E6%A0%8F.png" alt=""></p><p><strong>1. 设计干货：</strong>不定期汇总一些设计资源，如：图库网站、配色网站、渐变色网站、GIF动画设计欣赏等。</p><p><strong>2. 设计总结：</strong>根据自己的过往经历输出一些对设计的看法，如：独立开发者如何学习设计、设计师为什么要学习编程等等。</p><p><strong>3. 设计教程：</strong>不断充电的同时，会把自己做的设计成果形成教程，以文章的形式分享给大家，如：如何画logo、绘制系统图标、制作粉笔字、做小动画、表情包等等。</p><p><strong>4. 设计书单：</strong>不定期推荐设计相关书籍，了解更多的设计历史、设计理论知识、设计规则、设计经典案例等，仅供学习参考。</p><h4 id="极客周边"><a href="#极客周边" class="headerlink" title="极客周边"></a>极客周边</h4><p><strong>数码产品+码力全开周边</strong>，码力全开表情包形象确定下来完工后，会进入工作室周边产品的一些设计，到时候会上架到这个栏目，比如：贴纸、杯子、手机壳等等。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/%E9%85%8D%E5%9B%BE3-%E6%9E%81%E5%AE%A2%E5%91%A8%E8%BE%B9.png" alt=""></p><h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4><p>以上就是码力全开商店的内容规划，目前<strong>限时免费订阅《设计杂货铺》</strong>，同时可以免费领取一张会员卡，领取成功后赠送一张<strong>50元课程优惠券</strong>，购买课程支持积分兑换，每天到码力全开公众号点击菜单栏上的签到即可进入签到页面，签到成功获取1个积分，连签7天积分翻倍。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/hyk2.png" alt=""></p><h4 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h4><p>近期更新自己的App遇到了审核等待的问题，我的其中一款App在审核状态10多天了，发邮件给Apple仍没反应，有点心累。同时目前在学习课程的学员停更了几天，本周日或下周一将会继续更新课程内容，感谢你们的支持。</p><p><strong>最后欢迎扫描关注码力全开商店小程序</strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%81%9C%E6%9B%B4%E4%B8%89%E5%A4%A9%E6%88%91%E5%8F%AA%E5%81%9A%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%A3%E4%BC%A0.png" alt=""></p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry，前几天和几个朋友一起吃饭聊到各自的工作状态，其中一个朋友也是从事开发工作，他辞职后家底比较厚待业快一年了，他说手里的钱明年也够花了。&lt;/p&gt;
+&lt;p&gt;18年互联网行业一直处于低迷的状态，今年经常看到中年危机、老程序员沦落出局的新闻，程序员焦虑
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跟成千上万的插画师学画插画~</title>
+    <link href="http://maliquankai.com/2018/10/13/2018-10-13-drawn/"/>
+    <id>http://maliquankai.com/2018/10/13/2018-10-13-drawn/</id>
+    <published>2018-10-13T09:25:18.000Z</published>
+    <updated>2018-10-16T16:15:27.932Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>插画在近几年的设计展示中一直炙手可热，对于绘画能力不是很强的小伙伴，学（mo）习（bai）大师作品是必不可少的，今天就推荐一些聚集了成千上万插画师的<strong>插画欣赏交流</strong>及<strong>插画素材网站</strong>给大家，希望能对你的设计之路有一些帮助。</p></blockquote><h4 id="插画欣赏交流类网站"><a href="#插画欣赏交流类网站" class="headerlink" title="插画欣赏交流类网站"></a>插画欣赏交流类网站</h4><p>1、P站</p><p><strong>网址：<a href="http://www.pixiv.net" target="_blank" rel="noopener">http://www.pixiv.net</a></strong></p><p>P站！Pixiv！大名鼎鼎的日本高清同人画、插画作品分享站。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/1.jpg" alt=""></p><p>2、Grafolio</p><p><strong>网址：<a href="https://www.grafolio.com" target="_blank" rel="noopener">https://www.grafolio.com</a></strong></p><p>韩国插画设计师交流和展示插画作品集的平台。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/2.jpg" alt=""></p><p>3、SAKIRRO</p><p><strong>网址：<a href="http://sakiroo.com" target="_blank" rel="noopener">http://sakiroo.com</a></strong></p><p>一个以人设为主的韩国插画设计网站。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/3.jpg" alt=""></p><p>4、FolioArt</p><p><strong>网址：<a href="https://folioart.co.uk" target="_blank" rel="noopener">https://folioart.co.uk</a></strong></p><p>英国插画设计师作品及灵感展示网站。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/4.jpg" alt=""></p><p>5、Behance插画驿站</p><p><strong>网址：<a href="https://www.behance.net/galleries/1/Illustration" target="_blank" rel="noopener">https://www.behance.net/galleries/1/Illustration</a></strong></p><p>Behance旗下的插画网站。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/5.jpg" alt=""></p><p>6、插画世界</p><p><strong>网址：<a href="http://www.n8w.com" target="_blank" rel="noopener">http://www.n8w.com</a></strong></p><p>一个聚集世界各地优秀插画家及作品的网站。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/6.jpg" alt=""></p><h4 id="插画素材网站"><a href="#插画素材网站" class="headerlink" title="插画素材网站"></a>插画素材网站</h4><p>1、Old Book Illustrations</p><p><strong>网址：<a href="http://www.oldbookillustrations.com" target="_blank" rel="noopener">http://www.oldbookillustrations.com</a></strong></p><p>一个免费提供复古风格插图的网站，可以搜索到旧书籍和共享的插图，不用考虑版权，类别涵盖植物、建筑、动物、纪念碑、饰品等等。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b1.jpg" alt=""></p><p>2、Stockillustrations</p><p><strong>网址：<a href="https://www.stockillustrations.com" target="_blank" rel="noopener">https://www.stockillustrations.com</a></strong></p><p>Stockollustrations 的插图更适合世界广告，平面设计和出版。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b2.jpg" alt=""></p><p>3、laughing-stock</p><p><strong>网址：<a href="http://www.laughing-stock.com" target="_blank" rel="noopener">http://www.laughing-stock.com</a></strong></p><p>一个收录了大量艺术传统风格图片的网站，能看到很多风格一致图同时出现。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b3.jpg" alt=""></p><p>4、Image Zoo</p><p><strong>网址：<a href="https://imagezoo.com" target="_blank" rel="noopener">https://imagezoo.com</a></strong></p><p>Image Zoo 有大量传统的插图，可通过关键字搜索艺术家名称或主题。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b4.jpg" alt=""></p><p>5、Folioplanet</p><p><strong>网址：<a href="http://www.folioplanet.com" target="_blank" rel="noopener">http://www.folioplanet.com</a></strong></p><p>Folioplanet 是按照艺术家来排列的，寻找相关插图时可能会需要很多时间，不过网站还提供了一个特定的搜索功能，可以根据关键词出现一些匹配的组合，然后点开查看结果。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b5.jpg" alt=""></p><p>6、The i spot</p><p><strong>网址：<a href="https://www.theispot.com" target="_blank" rel="noopener">https://www.theispot.com</a></strong></p><p>The i spot提供大量的传统插图， 可以使用关键字搜索图片艺术类别、主题、风格<br>介质、甚至艺术家的名字和上传日期。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%B7%9F%E6%88%90%E5%8D%83%E4%B8%8A%E4%B8%87%E7%9A%84%E6%8F%92%E7%94%BB%E5%B8%88%E5%AD%A6%E7%94%BB%E6%8F%92%E7%94%BB~/b6.jpg" alt=""></p><p>今天就先分享这些啦，希望能帮到你，更多内容欢迎关注码力全开公众号。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;插画在近几年的设计展示中一直炙手可热，对于绘画能力不是很强的小伙伴，学（mo）习（bai）大师作品是必不可少的，今天就推荐一些聚集了成千上万插画师的&lt;strong&gt;插画欣赏交流&lt;/strong&gt;及&lt;strong&gt;插画素材网站&lt;/strong&gt;给大家
+      
+    
+    </summary>
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>绘制表情包该从哪里入手呢</title>
@@ -497,58 +549,6 @@
     
     
       <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>程序员该如何提升自己？</title>
-    <link href="http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/"/>
-    <id>http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/</id>
-    <published>2018-08-17T10:30:18.000Z</published>
-    <updated>2018-08-20T16:46:49.697Z</updated>
-    
-    <content type="html"><![CDATA[<p>根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。</p><p>北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。</p><p>尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大、互联网技术更新迭代速度快等原因让很多程序员疲于应付，苦不堪言。</p><p>长期以来，行业也存在一个误解：程序员的工作终点超不过35岁。如果想拥有更好的发展，学无止境不仅仅是我们一句勉励的口头禅。</p><p>程序员如何提升自己的能力？一些既懂理论又注重实践的“过来人”在电脑前摸爬打滚之后，给出了几条可行性建议：</p><h4 id="打好专业基础，累积十万工程量"><a href="#打好专业基础，累积十万工程量" class="headerlink" title="打好专业基础，累积十万工程量"></a>打好专业基础，累积十万工程量</h4><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/book.jpg" alt=""></p><p>买几本经典的编程书，把书上所有例子全部重新写一遍，逐个比较和书上范例的差距。</p><p>基础扎实后，多看看Linux 等系统级的源代码，看看高手是如何写的，就有感觉了。</p><p>一定要牢记软件工程的铁律：可能出错的地方一定会出错。每个变量都做初始化，引用每个参数都会做有效性检查，在可能出错的每个地方都会做边界条件检查。</p><p>计算机是一门实践性的科学，卡内基梅隆大学计算机系在全世界非常出名，系里要求每个博士生必须写十万行代码才能毕业，对于我们现在的程序员，也应该是一个专业积累的目标。</p><h4 id="时刻保持好奇心"><a href="#时刻保持好奇心" class="headerlink" title="时刻保持好奇心"></a>时刻保持好奇心</h4><p>计算机技术更新换代非常快，每年都有各种各样的新技术出现。仅主流编程语言，就有 Python、Java、C、C++、JavaScript、C#、Ruby、PHP、Objective-C、Swift等。</p><p>需要时刻保持好奇心，不断学习各种新的东西，才能在未来的几十年职业生涯中不落伍。</p><h4 id="不要局限在技术本身，多花精力关注用户"><a href="#不要局限在技术本身，多花精力关注用户" class="headerlink" title="不要局限在技术本身，多花精力关注用户"></a>不要局限在技术本身，多花精力关注用户</h4><p>一个高级的程序员不仅能写出像“诗”一样的代码，更能有产品经理的“眼光” — 知道用户需要什么样的产品。</p><p>现在的软件研发越来越强烈团队协作，不少团队都配置了专门的需求分析工程师、用户界面及用户体验设计师，很多程序员以为只要把技术搞好，不用管用户需求和用户体验。</p><p>怎么设计交互界面？怎样设计一款有设计感的APP，让用户觉得好用？这其实是程序员转向独立开发大牛路上的关键一步！</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1/cx.jpg" alt=""></p><p>很多人觉得设计是一个“神秘不可测”的过程，但其实都有规律可循，在<a href="https://mp.weixin.qq.com/s/XVvwMnyiTwtg_qnLOrtRGw" target="_blank" rel="noopener">《独立开发者如何学习设计》</a>这篇文章当中，我已经作为一个综合的独立开发者清晰地向大家阐述了学习设计的过程。</p><p>而最近，经过一个多月的精心准备，真诚推出了<a href="https://mp.weixin.qq.com/s/gQLJBTqbyS2bIazpFZqC3Q" target="_blank" rel="noopener">《从0到1教你设计一款APP》</a>的课程，包含了十几个章节，每个章节里又细分出了很多不同的必要内容，他有很多认为重要的东西想要传递给每一个需要的人。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/banner.jpg" alt=""></p><p><a href="https://weidian.com/item.html?itemID=2582641749" target="_blank" rel="noopener">课程购买入口</a>，目前限时¥360（8月22日后即恢复原价¥660）的历史低价，每一个操作步骤都被我做成了PPT，成为了一套全能的操作指南，我更乐意于解决你们的困惑和阻碍，并成为你们的同伴。</p><p>让技术实现设计的体验，让设计服务技术的功能，这才是一个成功且不可替代的程序员。如果你也想不断提升自己，欢迎加入我们，一起码力全开！</p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;根据来自CSDN的数据显示：中国大概有500W+的程序员，而且每年还有大量新增的程序员及从其它行业转过来的人员。&lt;/p&gt;
-&lt;p&gt;北京、杭州、上海、深圳、广州成程序员最喜欢工作的城市。&lt;/p&gt;
-&lt;p&gt;尽管互联网行业发展势头迅猛，程序员也拿着令人羡慕的“高薪”，但是，加班强度大
-      
-    
-    </summary>
-    
-      <category term="课程" scheme="http://maliquankai.com/categories/%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-      <category term="UI设计课程" scheme="http://maliquankai.com/tags/UI%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从0到1教你设计一款App</title>
-    <link href="http://maliquankai.com/2018/08/14/2018-08-14-app-design/"/>
-    <id>http://maliquankai.com/2018/08/14/2018-08-14-app-design/</id>
-    <published>2018-08-14T11:30:18.000Z</published>
-    <updated>2018-08-14T11:16:39.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/course.png" alt=""></p><h4 id="关于UI设计"><a href="#关于UI设计" class="headerlink" title="关于UI设计"></a>关于UI设计</h4><p>互联网发展至今，<strong>“有屏幕的地方就有UI设计”</strong>，越来越多的人开始注重界面交互设计、用户体验，而我就是那种对设计感强、颜值高的产品抱有莫名好感的一个人。</p><p>用户对于一个产品的购买冲动，有时候很大程度上源于它的外观，当然并不是说颜值高的产品就一定是好产品，而是如果一款产品好用再加上高颜值，一定会获得不少用户的青睐。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/ui.jpg" alt=""></p><h4 id="课程说明"><a href="#课程说明" class="headerlink" title="课程说明"></a>课程说明</h4><p>从0到1教你设计一款APP的课程规划筹备至今已经将近一个多月，期间收到很多小伙伴的私信，迫切关注着课程的进度，今天就对课程进度及课程内容做一个公告：</p><p>7月中旬我就开始吹牛逼，说在精心准备从0到1设计一款App的设计教程，历时一个多月今天终于完成，同时我也发现最近这段时间黑眼圈格外明显，每天早上起床洗漱后的第一件事就是做设计教程，每晚基本上3点左右才合上电脑，设计内容和操作步骤精细至极，没学过PS的也可以跟着这套教程游刃有余的学习。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/icon.jpg" alt=""></p><h4 id="课程思路"><a href="#课程思路" class="headerlink" title="课程思路"></a>课程思路</h4><p><strong>1. do what</strong></p><p>课程要教大家设计一款APP，我以开发课程里的情侣记APP为案例，一步一步展开制作示例教学。</p><p><strong>2. why do</strong></p><p>在示例实战前告诉大家UI相关的理论知识，让大家在设计的时候，清楚明白为什么要这样做。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/what.jpg" alt=""></p><p><strong>3. how do</strong></p><p>在你开展UI设计工作前，针对0基础的小伙伴，非常贴心的补充了软件操作方面的相关知识内容，能帮你节约大量看视频、不停Google的时间。</p><p><strong>4. how do better</strong></p><p>我相信没有天生的高手，设计需要多看多学多练习，在课程里会给大家补充一些平面基础知识、一些素材及灵感小站、一些插件及第三方工具等内容，帮大家能更好的完善自己的APP设计。</p><h4 id="课程内容"><a href="#课程内容" class="headerlink" title="课程内容"></a>课程内容</h4><p>UI设计概述、PS操作技巧、色彩搭配、Logo设计、图标设计、UI设计规范、构图与版式、App类别及界面设计、切图与标注、App包装设计，整个教程共10个章节。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/%E5%A4%A7%E7%BA%B2.jpg" alt=""></p><p>每个章节可能包含十几个小节的内容，在做课件的时候觉得好多东西要告诉大家，一个内容后面又扯出另一个知识点，比如说尺寸会涉及比例、黄金分割、斐波那契数列……</p><p>再比如色彩搭配会涉及色彩基本原理、色彩混合原理、光色彩、物色彩等等，所以初衷只有一个，希望把所有的东西都讲透彻，讲明白，能教会你具备设计App的能力。</p><p>示例的详细程度，不希望你们拿到课件操作时不知道怎么就变成了这种高大上的效果(so what)，所以会剖析每个设计步骤，进行分解解读，有详细展开说明，也有繁简结合进行重点讲解。</p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>说了这么多，如果你对设计感兴趣，又或者想提升自己产品的逼格，那就快来加入我们，一起码力全开，<strong>如果你报名了iOS或Android开发课程，本套设计课程免费送，下周三(8.22)开始提供，目前课程价格限时优惠¥360，优惠时间8.22截止，之后恢复原价¥660</strong>，课程购买可通过公众号或码力全开App购买。</p><p>在课程中，我们希望能解决你的困惑和所遇到的障碍；在往后的时间里，我们期待与你成为并肩的同伴，一起成长。</p><p><img src="http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/design_app.jpg" alt=""></p><p>如果你有任何好的建议或想法，欢迎与我联系。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E8%AE%BE%E8%AE%A1%E6%95%99%E7%A8%8B/course.png&quot; alt
-      
-    
-    </summary>
-    
-      <category term="课程" scheme="http://maliquankai.com/categories/%E8%AF%BE%E7%A8%8B/"/>
-    
-    
-      <category term="UI设计课程" scheme="http://maliquankai.com/tags/UI%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
