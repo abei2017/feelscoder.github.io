@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2018-10-18T16:05:52.164Z</updated>
+  <updated>2018-10-20T17:51:47.383Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玩游戏=学设计</title>
+    <link href="http://maliquankai.com/2018/10/20/2018-10-20-game-design/"/>
+    <id>http://maliquankai.com/2018/10/20/2018-10-20-game-design/</id>
+    <published>2018-10-20T15:26:18.000Z</published>
+    <updated>2018-10-20T17:51:47.383Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天给大家推荐几个有趣好玩的在线小游戏，不仅能让你在游戏中提高自己的软件操作熟练度，还能锻炼你的像素眼。</p><h4 id="1、The-Bezier-Game（钢笔工具小游戏）"><a href="#1、The-Bezier-Game（钢笔工具小游戏）" class="headerlink" title="1、The Bezier Game（钢笔工具小游戏）"></a>1、The Bezier Game（钢笔工具小游戏）</h4><p><strong>网址：<a href="https://bezier.method.ac" target="_blank" rel="noopener">https://bezier.method.ac</a></strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/1.png" alt=""></p><p>The Bezier Game 是一个练习钢笔工具的小游戏，网站从易到难提供形状轮廓，而你需要根据指定的形状轮廓绘制出对应的形状曲线。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/2.png" alt=""></p><p>网站顶部有钢笔工具操作快捷键，在游戏刚开时，网站也会演示操作步骤、提示你操作点、操作快捷键、剩余关键点数量等，绘制结束后，在网页下方区域可以看到你绘制的锚点数量以及标准绘制需要的锚点数量，如果数量不一致网站会提示你再试一次还是跳到下一个。</p><p>通过钢笔游戏，你可以快速掌握钢笔工具的用法及各种快捷键的运用。</p><h4 id="2、Shape-Type（曲线造型小游戏）"><a href="#2、Shape-Type（曲线造型小游戏）" class="headerlink" title="2、Shape Type（曲线造型小游戏）"></a>2、Shape Type（曲线造型小游戏）</h4><p><strong>网址：<a href="https://shape.method.ac" target="_blank" rel="noopener">https://shape.method.ac</a></strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/3.png" alt=""></p><p>与钢笔游戏不同的是，在这个游戏中，你只需要拖动杠杆来使字母边缘变得圆润饱满。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/4.png" alt=""></p><p>调整完成后，游戏会判断匹配度给出分数，同时给出选项显示标准字形、你调整的字形或者将两者同时显示直观查看差别，并且每个字体右边会出现该字体的名字、设计师以及发布年份。</p><p>通过这个游戏，可以锻炼你的西文字体造型能力，并熟悉字体笔画的转折结构。</p><h4 id="3、Kern-Type（字距游戏）"><a href="#3、Kern-Type（字距游戏）" class="headerlink" title="3、Kern Type（字距游戏）"></a>3、Kern Type（字距游戏）</h4><p><strong>网址：<a href="https://type.method.ac" target="_blank" rel="noopener">https://type.method.ac</a></strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/5.png" alt=""></p><p>字距游戏是通过移动字母调整字间距来获得易读性更高的文本。我们称这种工作为「Kerning」。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/6.png" alt=""></p><p>这个游戏的操作相对简单，水平移动字母到合适的位置，然后点击Compare，即可对比查看你的调整效果和标准效果之间的差别，并且系统会依据差别给你的调整打一个分数，你可以借此来锻炼字体排版的能力。</p><h4 id="4、Color（颜色匹配游戏）"><a href="#4、Color（颜色匹配游戏）" class="headerlink" title="4、Color（颜色匹配游戏）"></a>4、Color（颜色匹配游戏）</h4><p><strong>网址：<a href="https://color.method.ac" target="_blank" rel="noopener">https://color.method.ac</a></strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/7.png" alt=""></p><p>Color 这个游戏主要是让用户匹配对应颜色，有色调、饱和度、互补色、三色、四色等常见的配色测试，越后面的关卡难度越高。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/8.png" alt=""></p><p>点击首页色轮开始游戏后，游戏将从色调开始，系统自动生成一个圆形颜色在色轮中间，并且圆形面积随时间减小，你取色的颜色显示在系统生成颜色的外部，当时间结束后，系统会根据你的颜色和系统生成的颜色之间的差别进行评分，如果能达到「Perfect」表示匹配完美。</p><p>通过这个游戏，可以锻炼你在短时间内对颜色的感知能力。</p><h4 id="5、The-Color（色感游戏）"><a href="#5、The-Color（色感游戏）" class="headerlink" title="5、The Color（色感游戏）"></a>5、The Color（色感游戏）</h4><p><strong>网址：<a href="http://game.ioxapp.com/eye-test/game.html" target="_blank" rel="noopener">http://game.ioxapp.com/eye-test/game.html</a></strong></p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/9.png" alt=""></p><p>The Color 是一个测试色感的小游戏。在游戏60秒内，你需要找出所有色块里颜色不同的一个，颜色变化涉及色相、明度、饱和度等多重变化，越往后色块越多难度也越大，识别的数量越多最后的得分也就越高。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%AD%A6%E8%AE%BE%E8%AE%A1/10.png" alt=""></p><p>通过这个游戏，可以测试你对色彩的综合感知能力。</p><p>最后，今天的分享就这些啦，希望能对你有所帮助～</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天给大家推荐几个有趣好玩的在线小游戏，不仅能让你在游戏中提高自己的软件操作熟练度，还能锻炼你的像素眼。&lt;/p&gt;
+&lt;h4 id=&quot;1、The-Bezier-Game（钢笔工具小游戏）&quot;&gt;&lt;a href=&quot;#1、The-Bezier-Game（钢笔工具小游戏）&quot; class=
+      
+    
+    </summary>
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>“码小力”和他的宠物“码小开”</title>
@@ -516,32 +542,6 @@
 &lt;li&gt;系统图标栅格&lt;/li&gt;
 &lt;li&gt;系统图标栅格的制定&lt;/li&gt;
 &lt;li&gt;系统图标的分类与栅格规范&lt;/li
-      
-    
-    </summary>
-    
-      <category term="程序员聊设计" scheme="http://maliquankai.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="程序员聊设计" scheme="http://maliquankai.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高逼格的二维码原来是这样做出来的</title>
-    <link href="http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/"/>
-    <id>http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/</id>
-    <published>2018-08-28T13:24:18.000Z</published>
-    <updated>2018-08-28T14:57:45.840Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天新设计了公众号尾部的二维码，有些小伙伴感兴趣是怎么做的，其实很简单，今天就详细跟大家聊一聊~</p><h4 id="1、首先我们要了解一下二维码是什么？"><a href="#1、首先我们要了解一下二维码是什么？" class="headerlink" title="1、首先我们要了解一下二维码是什么？"></a>1、首先我们要了解一下二维码是什么？</h4><p>二维码又称二维条码，常见的二维码为QR Code，QR全称Quick Response，是一个近几年来移动设备上超流行的一种编码方式，它比传统的Bar Code条形码能存更多的信息，也能表示更多的数据类型。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-1.png" alt=""></p><p>如上图：传统条形码在X轴上存储信息，二维码则多加了Y轴。</p><h4 id="2、二维码存储数据的方式"><a href="#2、二维码存储数据的方式" class="headerlink" title="2、二维码存储数据的方式"></a>2、二维码存储数据的方式</h4><p>二维码采用二进制语言，对于电脑程序来说，有0和1这两个数字就有了一切！在二维码中，白色的方块代表0，黑色的方块代表1。</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-2.png" alt=""></p><h4 id="3、二维码的结构"><a href="#3、二维码的结构" class="headerlink" title="3、二维码的结构"></a>3、二维码的结构</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-3.png" alt=""></p><p>如图，一个二维码基本由这四部分组成，在对二维码进行美化时，要清楚哪些元素是可以删除或修改的，哪些地方是不能动的：</p><p>定位标志：也叫位置探测图形，俗称码眼，是用来定位二维码图形区域的，非常重要，缺少它二维码就无法被识别出来，因此绝对不能删除。</p><p>定时标志：起到确定坐标的作用，在大型二维码中比较有用，通常可以删除~</p><p>校正标志：当这个标志存在的时候，用手机斜着扫码，差不多超过45°之后才会扫不到，但是把这个标志删除掉的话，只能正面扫码，所以不建议删除！</p><p>内容信息：这个部分就是二维码包含的内容了，建议不动它们，容错率高的二维码可以适当的删减中间部分的方格（也有用头像遮挡中间部分的二维码），建议删除时多用手机扫描测试看能不能扫描出来，不行的话就ctrl+z赶紧返回。</p><h4 id="4、二维码容错率"><a href="#4、二维码容错率" class="headerlink" title="4、二维码容错率"></a>4、二维码容错率</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-4.png" alt=""></p><p>二维码的容错率分为7%、15%、25%、30%四个等级，对于目前主流手机，在绝大多数扫描场景下，容错率越高，越容易被快速扫描。同时容错率越高二维码里面的格子也就越多，通常在设计二维码时建议选择7%容错率的二维码进行设计。</p><h4 id="5、二维码识别"><a href="#5、二维码识别" class="headerlink" title="5、二维码识别"></a>5、二维码识别</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic-5.png" alt=""></p><p>如图，常规二维码为了方便识别选择了两个对比度最大的颜色-黑色与白色，在重新设计二维码的时候要注意二维码颜色和背景颜色保持一定的深浅对比度，注意二维码不能使用白色，白色代表编码0，黑色代表编码1，反白之后编码会错误，二维码将不能识别。</p><h4 id="6、码力全开工作室二维码制作案例"><a href="#6、码力全开工作室二维码制作案例" class="headerlink" title="6、码力全开工作室二维码制作案例"></a>6、码力全开工作室二维码制作案例</h4><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_6.png" alt=""></p><p>① 打开公众号二维码，根据二维码最小单元格设置参考线；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_7.png" alt=""></p><p>② 将二维码的方格元素置换为圆形、圆角矩形、圆环形等；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_8.png" alt=""> </p><p>③ 结合场景添加装饰元素。</p><h4 id="7、注意事项"><a href="#7、注意事项" class="headerlink" title="7、注意事项"></a>7、注意事项</h4><p>① 设计二维码时注意时刻扫描二维码确认可识别；</p><p>② 二维码元素置换时注意元素大小；</p><p><img src="https://qidianlife.oss-cn-shanghai.aliyuncs.com/%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E7%BE%8E%E5%8C%96%E4%BA%8C%E7%BB%B4%E7%A0%81/pic_9.png" alt=""> </p><p>最后，说了这么多，希望能对大家的创作有所帮助，开动脑筋一起创意有意思的二维码吧~</p><p>如果你有任何好的建议或想法，欢迎关注码力全开工作室。</p><ul><li><a href="http://maliquankai.com">工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨天新设计了公众号尾部的二维码，有些小伙伴感兴趣是怎么做的，其实很简单，今天就详细跟大家聊一聊~&lt;/p&gt;
-&lt;h4 id=&quot;1、首先我们要了解一下二维码是什么？&quot;&gt;&lt;a href=&quot;#1、首先我们要了解一下二维码是什么？&quot; class=&quot;headerlink&quot; title=&quot;
       
     
     </summary>
